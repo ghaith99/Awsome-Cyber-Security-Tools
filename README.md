@@ -1,940 +1,940 @@
-#Cyber Security Tools 
+# Cyber Security Tools 
 
-- [DnsEnum](#LinkHere) - Description here
-- [Dnsmap](#LinkHere) - Description here
-- [Dnsrecon](#LinkHere) - Description here
-- [DnsTracer](#LinkHere) - Description here
-- [Dns-Walk](#LinkHere) - Description here
-- [Fierce](#LinkHere) - Description here
-- [FindDomains](#LinkHere) - Description here
-- [HostMap](#LinkHere) - Description here
-- [Lynis](#LinkHere) - Description here
-- [OpenMR](#LinkHere) - Description here
-- [RATS](#LinkHere) - Description here
-- [URLcrazy](#LinkHere) - Description here
-- [CookieDigger](#LinkHere) - Description here
-- [AdSuck DNS Server 2.4.1](#LinkHere) - Description here
-- [Dnsgoblin](#LinkHere) - Description here
-- [Active Whois](#LinkHere) - Description here
-- [URLDIGGER](#LinkHere) - Description here
-- [ritx](#LinkHere) - Description here
-- [Emailtrackerpro](#LinkHere) - Description here
-- [Samspade](#LinkHere) - Description here
-- [GEO Spider](#LinkHere) - Description here
-- [Magic Netrace](#LinkHere) - Description here
-- [3d Visual Tracer](#LinkHere) - Description here
-- [Logcheck](#LinkHere) - Description here
-- [theHarvester](#LinkHere) - Description here
-- [Spamhol](#LinkHere) - Description here
-- [Deblaze](#LinkHere) - Description here
-- [Argos](#LinkHere) - Description here
-- [Honeyd](#LinkHere) - Description here
-- [Google Hack Honeypot](#LinkHere) - Description here
-- [Single-honeypot](#LinkHere) - Description here
-- [Fake AP](#LinkHere) - Description here
-- [phoneyc](#LinkHere) - Description here
-- [FOCA](#LinkHere) - Description here
-- [OOMetaExtractor](#LinkHere) - Description here
-- [4dnstools.com](#LinkHere) - Description here
-- [DnsStuff.com](#LinkHere) - Description here
-- [DnsTools.com](#LinkHere) - Description here
-- [Mxtoolbox.com](#LinkHere) - Description here
-- [Network-Tools.com](#LinkHere) - Description here
-- [robtex.com](#LinkHere) - Description here
-- [Shodan](#LinkHere) - Description here
-- [Nmap](#LinkHere) - Description here
-- [Port check](#LinkHere) - Description here
-- [Open Port Finder](#LinkHere) - Description here
-- [Adhoc-IP Tools](#LinkHere) - Description here
-- [who.is](#LinkHere) - Description here
-- [ipcalc.org](#LinkHere) - Description here
-- [domxssscanner.com](#LinkHere) - Description here
-- [0trace](#LinkHere) - Description here
-- [Itrace](#LinkHere) - Description here
-- [Lanmap2](#LinkHere) - Description here
-- [Nat Probe](#LinkHere) - Description here
-- [Netenum](#LinkHere) - Description here
-- [Netmask](#LinkHere) - Description here
-- [NMBscan](#LinkHere) - Description here
-- [Protos](#LinkHere) - Description here
-- [Tctrace](#LinkHere) - Description here
-- [TCPtraceroute](#LinkHere) - Description here
-- [IRPAS](#LinkHere) - Description here
-- [Bing-ip2hosts](#LinkHere) - Description here
-- [Binging](#LinkHere) - Description here
-- [Creepy](#LinkHere) - Description here
-- [Gggooglescan](#LinkHere) - Description here
-- [GoogleHacker](#LinkHere) - Description here
-- [Goorecon](#LinkHere) - Description here
-- [Gooscan](#LinkHere) - Description here
-- [Maltego](#LinkHere) - Description here
-- [Metagoofil](#LinkHere) - Description here
-- [Scroogle](#LinkHere) - Description here
-- [SiteDigger](#LinkHere) - Description here
-- [Subdomainer](#LinkHere) - Description here
-- [Yeti](#LinkHere) - Description here
-- [GoogleDiggity](#LinkHere) - Description here
-- [vTrace](#LinkHere) - Description here
-- [NetworkMiner](#LinkHere) - Description here
-- [Unicornscan](#LinkHere) - Description here
-- [TripWire](#LinkHere) - Description here
-- [dradis](#LinkHere) - Description here
-- [pbnj](#LinkHere) - Description here
-- [smtprc](#LinkHere) - Description here
-- [Network Spoofer](#LinkHere) - Description here
-- [Trout](#LinkHere) - Description here
-- [SNScan](#LinkHere) - Description here
-- [ScanLine](#LinkHere) - Description here
-- [Admin Page Finder Script](#LinkHere) - Description here
-- [goohost](#LinkHere) - Description here
-- [NmapSi4](#LinkHere) - Description here
-- [0trace](#LinkHere) - Description here
-- [5nmp](#LinkHere) - Description here
-- [Angry IP scanner](#LinkHere) - Description here
-- [Autoscan](#LinkHere) - Description here
-- [Fping](#LinkHere) - Description here
-- [Genlist](#LinkHere) - Description here
-- [Hping2](#LinkHere) - Description here
-- [Hping3](#LinkHere) - Description here
-- [Knock](#LinkHere) - Description here
-- [Lanmap](#LinkHere) - Description here
-- [Nbtscan](#LinkHere) - Description here
-- [Netdiscover](#LinkHere) - Description here
-- [Netifera](#LinkHere) - Description here
-- [Nmap](#LinkHere) - Description here
-- [Nsat](#LinkHere) - Description here
-- [Onesixtyone](#LinkHere) - Description here
-- [OutputPBNJ](#LinkHere) - Description here
-- [PrismStumbler](#LinkHere) - Description here
-- [ScanPBNJ](#LinkHere) - Description here
-- [SCTPscan](#LinkHere) - Description here
-- [Sslscan](#LinkHere) - Description here
-- [TCPtraceroute](#LinkHere) - Description here
-- [Unicornscan](#LinkHere) - Description here
-- [Xprobe2](#LinkHere) - Description here
-- [Zenmap](#LinkHere) - Description here
-- [THC-Amap](#LinkHere) - Description here
-- [GeoIPgen](#LinkHere) - Description here
-- [Ipnetinfo](#LinkHere) - Description here
-- [xgps](#LinkHere) - Description here
-- [Hyenae](#LinkHere) - Description here
-- [NetBIOS Share Scanner](#LinkHere) - Description here
-- [ASDIC](#LinkHere) - Description here
-- [Solsoft ChangeManager](#LinkHere) - Description here
-- [Lan-Secure Switch Center](#LinkHere) - Description here
-- [NetScanTools](#LinkHere) - Description here
-- [DHCPDump](#LinkHere) - Description here
-- [fragroute](#LinkHere) - Description here
-- [CIScan](#LinkHere) - Description here
-- [BOPing](#LinkHere) - Description here
-- [CredDigger](#LinkHere) - Description here
-- [Fpipe](#LinkHere) - Description here
-- [Mxtoolbox.com](#LinkHere) - Description here
-- [5nmp](#LinkHere) - Description here
-- [Autoscan](#LinkHere) - Description here
-- [Nmap](#LinkHere) - Description here
-- [Nsat](#LinkHere) - Description here
-- [Onesixtyone](#LinkHere) - Description here
-- [P0f](#LinkHere) - Description here
-- [Protos](#LinkHere) - Description here
-- [Sslscan](#LinkHere) - Description here
-- [Unicornscan](#LinkHere) - Description here
-- [Xprobe2](#LinkHere) - Description here
-- [Zenmap](#LinkHere) - Description here
-- [Cheops-ng](#LinkHere) - Description here
-- [Winfingerprint](#LinkHere) - Description here
-- [KOLKATA](#LinkHere) - Description here
-- [Autoscan](#LinkHere) - Description here
-- [Genlist](#LinkHere) - Description here
-- [Knocker](#LinkHere) - Description here
-- [Netifera](#LinkHere) - Description here
-- [Nmap](#LinkHere) - Description here
-- [Nsat](#LinkHere) - Description here
-- [OutputPBNJ](#LinkHere) - Description here
-- [GlypeAhead](#LinkHere) - Description here
-- [ScanPBNJ](#LinkHere) - Description here
-- [SCTPscan](#LinkHere) - Description here
-- [Unicornscan](#LinkHere) - Description here
-- [Zenmap](#LinkHere) - Description here
-- [TCP Fast Scan](#LinkHere) - Description here
-- [Superscan](#LinkHere) - Description here
-- [MingSweeper](#LinkHere) - Description here
-- [Umap](#LinkHere) - Description here
-- [Firewalk](#LinkHere) - Description here
-- [SendIP](#LinkHere) - Description here
-- [PortSentry](#LinkHere) - Description here
-- [Currport](#LinkHere) - Description here
-- [Nscan](#LinkHere) - Description here
-- [NetworkActiv Scan](#LinkHere) - Description here
-- [Blues Port Scanner](#LinkHere) - Description here
-- [Amap](#LinkHere) - Description here
-- [Httprint](#LinkHere) - Description here
-- [Httsquash](#LinkHere) - Description here
-- [Letdown](#LinkHere) - Description here
-- [Nmap](#LinkHere) - Description here
-- [ReverseRaider](#LinkHere) - Description here
-- [Wafp](#LinkHere) - Description here
-- [WhatWeb](#LinkHere) - Description here
-- [Polipo](#LinkHere) - Description here
-- [IKE-Scan](#LinkHere) - Description here
-- [PSK-Crack](#LinkHere) - Description here
-- [homographit](#LinkHere) - Description here
-- [Fast-Track](#LinkHere) - Description here
-- [Inguma](#LinkHere) - Description here
-- [Metasploit](#LinkHere) - Description here
-- [Subterfuge](#LinkHere) - Description here
-- [OpenVas](#LinkHere) - Description here
-- [Hexjector](#LinkHere) - Description here
-- [SQLSentinel](#LinkHere) - Description here
-- [Intercepter-NG](#LinkHere) - Description here
-- [Mole](#LinkHere) - Description here
-- [Slowloris](#LinkHere) - Description here
-- [Dis9-SQL Inj3ction Toolkit](#LinkHere) - Description here
-- [gafanhoto-sqli](#LinkHere) - Description here
-- [BoNeSi](#LinkHere) - Description here
-- [Ddosim](#LinkHere) - Description here
-- [Evilgrade](#LinkHere) - Description here
-- [killerbee](#LinkHere) - Description here
-- [pinta](#LinkHere) - Description here
-- [web-sorrow](#LinkHere) - Description here
-- [Havij v1.15](#LinkHere) - Description here
-- [dos-recon](#LinkHere) - Description here
-- [HackPack](#LinkHere) - Description here
-- [T50](#LinkHere) - Description here
-- [hackbar](#LinkHere) - Description here
-- [sqlcake](#LinkHere) - Description here
-- [Lfi autopwn.pl](#LinkHere) - Description here
-- [BLEEDING LIFE](#LinkHere) - Description here
-- [middler](#LinkHere) - Description here
-- [pani-sql-injector](#LinkHere) - Description here
-- [ghost-phisher](#LinkHere) - Description here
-- [loginsystem-rd](#LinkHere) - Description here
-- [sqlroute](#LinkHere) - Description here
-- [itbp](#LinkHere) - Description here
-- [Pyloris](#LinkHere) - Description here
-- [hulk](#LinkHere) - Description here
-- [Ransack](#LinkHere) - Description here
-- [Ani-Shell](#LinkHere) - Description here
-- [TorsHammer](#LinkHere) - Description here
-- [r-u-dead-yet](#LinkHere) - Description here
-- [ExploitMyUnion](#LinkHere) - Description here
-- [PHP SQL Injection sCanner](#LinkHere) - Description here
-- [BOBCAT](#LinkHere) - Description here
-- [NTO SQL Invader](#LinkHere) - Description here
-- [dnsdrdos](#LinkHere) - Description here
-- [Sql Poison](#LinkHere) - Description here
-- [Marathon](#LinkHere) - Description here
-- [darkBing SQL Scanner](#LinkHere) - Description here
-- [Anti-Shell](#LinkHere) - Description here
-- [owasp-dos-http-post](#LinkHere) - Description here
-- [witool](#LinkHere) - Description here
-- [epb](#LinkHere) - Description here
-- [PRIAMOS](#LinkHere) - Description here
-- [xCat](#LinkHere) - Description here
-- [SFX-SQLI](#LinkHere) - Description here
-- [SQLIer](#LinkHere) - Description here
-- [Exploit Pack](#LinkHere) - Description here
-- [FG-Injector](#LinkHere) - Description here
-- [Sqid](#LinkHere) - Description here
-- [H.O.I.C](#LinkHere) - Description here
-- [Wpoison](#LinkHere) - Description here
-- [SQLol](#LinkHere) - Description here
-- [d0z.me](#LinkHere) - Description here
-- [Pangolin](#LinkHere) - Description here
-- [Mallory](#LinkHere) - Description here
-- [bsqlbf](#LinkHere) - Description here
-- [Absinthe](#LinkHere) - Description here
-- [THC-SSL-DOS](#LinkHere) - Description here
-- [Blind cat](#LinkHere) - Description here
-- [Ca0s SQL Perl Inj3ct0r](#LinkHere) - Description here
-- [Cymothoa](#LinkHere) - Description here
-- [THC-ip6](#LinkHere) - Description here
-- [Cisco Global Exploiter](#LinkHere) - Description here
-- [safe3 sql injector](#LinkHere) - Description here
-- [Sapyto](#LinkHere) - Description here
-- [Darkmysqli](#LinkHere) - Description here
-- [Padbuster](#LinkHere) - Description here
-- [Wfetch](#LinkHere) - Description here
-- [WITOOL](#LinkHere) - Description here
-- [Injectioncrawler](#LinkHere) - Description here
-- [Enema](#LinkHere) - Description here
-- [Firefuzzer](#LinkHere) - Description here
-- [Acte](#LinkHere) - Description here
-- [Pysqlin](#LinkHere) - Description here
-- [Databasesecuritytesting](#LinkHere) - Description here
-- [Sqlinject-finder](#LinkHere) - Description here
-- [slowhttptest](#LinkHere) - Description here
-- [mpi4py](#LinkHere) - Description here
-- [killerbee](#LinkHere) - Description here
-- [winAUTOPWN](#LinkHere) - Description here
-- [XssF](#LinkHere) - Description here
-- [THC SSL DOS](#LinkHere) - Description here
-- [DDkiller](#LinkHere) - Description here
-- [Blind XPath Injection](#LinkHere) - Description here
-- [Blind LDAP Injection](#LinkHere) - Description here
-- [maxsqli-syntax-maker](#LinkHere) - Description here
-- [sqlifuzzer](#LinkHere) - Description here
-- [Lycaon Web Vulnerability](#LinkHere) - Description here
-- [Fatcat SQLinjector](#LinkHere) - Description here
-- [freqcounter-sqlinjector](#LinkHere) - Description here
-- [sqlibench](#LinkHere) - Description here
-- [Low Orbit](#LinkHere) - Description here
-- [synblock](#LinkHere) - Description here
-- [ISR-SQLGET](#LinkHere) - Description here
-- [Exploit-Me](#LinkHere) - Description here
-- [IPPON](#LinkHere) - Description here
-- [warvox](#LinkHere) - Description here
-- [Cobalt Strike](#LinkHere) - Description here
-- [Metasploit](#LinkHere) - Description here
-- [Mercury](#LinkHere) - Description here
-- [OpenSCAP](#LinkHere) - Description here
-- [rsif](#LinkHere) - Description here
-- [Phemail.py](#LinkHere) - Description here
-- [Xenotix XSS Exploit Framework](#LinkHere) - Description here
-- [Bed](#LinkHere) - Description here
-- [Bf2](#LinkHere) - Description here
-- [Bunny](#LinkHere) - Description here
-- [Dkftpbench](#LinkHere) - Description here
-- [FuzzDb](#LinkHere) - Description here
-- [Fzem](#LinkHere) - Description here
-- [JbroFuzz](#LinkHere) - Description here
-- [MiniFuzz File Fuzzer](#LinkHere) - Description here
-- [ftp-fuzz](#LinkHere) - Description here
-- [Powerfuzzer](#LinkHere) - Description here
-- [fuzzer toolkit](#LinkHere) - Description here
-- [tftp-fuzz](#LinkHere) - Description here
-- [Peach](#LinkHere) - Description here
-- [untidy](#LinkHere) - Description here
-- [Peach Fuzzing Platform](#LinkHere) - Description here
-- [Fuzzer Toolkit](#LinkHere) - Description here
-- [Sfuzz](#LinkHere) - Description here
-- [Sulley](#LinkHere) - Description here
-- [antiparser](#LinkHere) - Description here
-- [Fusil](#LinkHere) - Description here
-- [Spike](#LinkHere) - Description here
-- [Fuzzbox](#LinkHere) - Description here
-- [Voiper](#LinkHere) - Description here
-- [WSFuzzer](#LinkHere) - Description here
-- [ZZuf](#LinkHere) - Description here
-- [UniOFuzz Universal Fuzzer Tool](#LinkHere) - Description here
-- [Wikto](#LinkHere) - Description here
-- [LFI Fuzzploit Tool](#LinkHere) - Description here
-- [PHP Vulnerability Hunter](#LinkHere) - Description here
-- [CAT](#LinkHere) - Description here
-- [AxMan](#LinkHere) - Description here
-- [Malybuzz](#LinkHere) - Description here
-- [rfuzz](#LinkHere) - Description here
-- [Impacket Samrdump](#LinkHere) - Description here
-- [Impacket Smbclient](#LinkHere) - Description here
-- [keimpx](#LinkHere) - Description here
-- [Smb4k](#LinkHere) - Description here
-- [Smbclient](#LinkHere) - Description here
-- [ADMSnmp](#LinkHere) - Description here
-- [Braa](#LinkHere) - Description here
-- [SnmpCheck](#LinkHere) - Description here
-- [SnmpEnum](#LinkHere) - Description here
-- [SnmpWalk](#LinkHere) - Description here
-- [CAT.NET](#LinkHere) - Description here
-- [Dotdefender](#LinkHere) - Description here
-- [Microsoft Url Scan](#LinkHere) - Description here
-- [GreenSql](#LinkHere) - Description here
-- [HP Scrawlr](#LinkHere) - Description here
-- [Sqlstripes](#LinkHere) - Description here
-- [Social-Engineering Toolkit (SET)](#LinkHere) - Description here
-- [FakeIKEd](#LinkHere) - Description here
-- [Graudit](#LinkHere) - Description here
-- [Nessus Parsing Tools](#LinkHere) - Description here
-- [WATOBO](#LinkHere) - Description here
-- [MagicTree](#LinkHere) - Description here
-- [WordPress Security Scanner 1.1](#LinkHere) - Description here
-- [Yasca](#LinkHere) - Description here
-- [WebSploit Toolkit](#LinkHere) - Description here
-- [UrlScan 3.1](#LinkHere) - Description here
-- [Sara](#LinkHere) - Description here
-- [Gsd](#LinkHere) - Description here
-- [Mpack](#LinkHere) - Description here
-- [aidSQL](#LinkHere) - Description here
-- [Golismero](#LinkHere) - Description here
-- [WebGoat](#LinkHere) - Description here
-- [GoLismero](#LinkHere) - Description here
-- [Lilith](#LinkHere) - Description here
-- [websurgery](#LinkHere) - Description here
-- [IronWASP](#LinkHere) - Description here
-- [Vasto](#LinkHere) - Description here
-- [VEGA](#LinkHere) - Description here
-- [BiDiBLAH](#LinkHere) - Description here
-- [DllHijackAuditor](#LinkHere) - Description here
-- [Nessus](#LinkHere) - Description here
-- [OpenVAS](#LinkHere) - Description here
-- [Dark D0rk3r 0.3](#LinkHere) - Description here
-- [Fwknop Port Knocking Utility 2.0](#LinkHere) - Description here
-- [Nexpose](#LinkHere) - Description here
-- [Fluxay](#LinkHere) - Description here
-- [GFI LanGuard](#LinkHere) - Description here
-- [Acunetix WVS](#LinkHere) - Description here
-- [RIPS](#LinkHere) - Description here
-- [VulnDetector](#LinkHere) - Description here
-- [Uniscan](#LinkHere) - Description here
-- [safe3](#LinkHere) - Description here
-- [Joomla Folder Scanner](#LinkHere) - Description here
-- [maxisploit-scanner](#LinkHere) - Description here
-- [sslyze](#LinkHere) - Description here
-- [Lycaon Web Vulnerability](#LinkHere) - Description here
-- [xss Scanner](#LinkHere) - Description here
-- [Gamja](#LinkHere) - Description here
-- [xSQL scanner](#LinkHere) - Description here
-- [GSCRAPE](#LinkHere) - Description here
-- [Vanguard](#LinkHere) - Description here
-- [Damn small SQLI Scanner](#LinkHere) - Description here
-- [N-Stalker](#LinkHere) - Description here
-- [Xscan](#LinkHere) - Description here
-- [Vanguard Pentesting Scanner](#LinkHere) - Description here
-- [Saint](#LinkHere) - Description here
-- [Alelier](#LinkHere) - Description here
-- [Shadow Security Scanner](#LinkHere) - Description here
-- [Mopest](#LinkHere) - Description here
-- [WebCruiser](#LinkHere) - Description here
-- [XCode Exploit](#LinkHere) - Description here
-- [XssScanner](#LinkHere) - Description here
-- [CSRFScanner](#LinkHere) - Description here
-- [ERPScan SaaS](#LinkHere) - Description here
-- [XCobra](#LinkHere) - Description here
-- [solarwinds](#LinkHere) - Description here
-- [DDosPing](#LinkHere) - Description here
-- [DIRE](#LinkHere) - Description here
-- [DSScan](#LinkHere) - Description here
-- [DAVTest](#LinkHere) - Description here
-- [KrbGuess](#LinkHere) - Description here
-- [Ncrack](#LinkHere) - Description here
-- [MACAddresschanger](#LinkHere) - Description here
-- [kippo](#LinkHere) - Description here
-- [Eraseme](#LinkHere) - Description here
-- [Bkhive](#LinkHere) - Description here
-- [Crunch](#LinkHere) - Description here
-- [CUPP](#LinkHere) - Description here
-- [John](#LinkHere) - Description here
-- [Pw-Inspector](#LinkHere) - Description here
-- [Rainbowcrack](#LinkHere) - Description here
-- [Rarcrack](#LinkHere) - Description here
-- [Samdump2](#LinkHere) - Description here
-- [Saltymd5](#LinkHere) - Description here
-- [Wyd](#LinkHere) - Description here
-- [Cain And Abel](#LinkHere) - Description here
-- [RAR Password Cracker](#LinkHere) - Description here
-- [fcrackzip](#LinkHere) - Description here
-- [chntpw](#LinkHere) - Description here
-- [enumiax](#LinkHere) - Description here
-- [FSCrack](#LinkHere) - Description here
-- [Bruter](#LinkHere) - Description here
-- [BruteSSH](#LinkHere) - Description here
-- [Hydra](#LinkHere) - Description here
-- [Lodowep](#LinkHere) - Description here
-- [Medusa](#LinkHere) - Description here
-- [SSHatter](#LinkHere) - Description here
-- [TFTP-Bruteforce](#LinkHere) - Description here
-- [Arpalert](#LinkHere) - Description here
-- [Driftnet](#LinkHere) - Description here
-- [DSniff](#LinkHere) - Description here
-- [Etherape](#LinkHere) - Description here
-- [Ettercap](#LinkHere) - Description here
-- [Ferret](#LinkHere) - Description here
-- [Fimap](#LinkHere) - Description here
-- [GToolBarSnoop](#LinkHere) - Description here
-- [Hamster](#LinkHere) - Description here
-- [MIMEDefang](#LinkHere) - Description here
-- [Ntop](#LinkHere) - Description here
-- [SMBRelay](#LinkHere) - Description here
-- [SSLDump](#LinkHere) - Description here
-- [SSLStrip](#LinkHere) - Description here
-- [TcPick](#LinkHere) - Description here
-- [Wireshark](#LinkHere) - Description here
-- [Xspy](#LinkHere) - Description here
-- [Tcpdump](#LinkHere) - Description here
-- [Driftnet](#LinkHere) - Description here
-- [Hexinject](#LinkHere) - Description here
-- [sslsniff](#LinkHere) - Description here
-- [sniffjoke](#LinkHere) - Description here
-- [sessionlist](#LinkHere) - Description here
-- [CSniffer](#LinkHere) - Description here
-- [ADM-Dns-Tools](#LinkHere) - Description here
-- [Etherape](#LinkHere) - Description here
-- [Ettercap](#LinkHere) - Description here
-- [ICMP Redirect](#LinkHere) - Description here
-- [IGRP Route Injection](#LinkHere) - Description here
-- [IRDP Responder](#LinkHere) - Description here
-- [Nemesis](#LinkHere) - Description here
-- [Netenum](#LinkHere) - Description here
-- [NetSed](#LinkHere) - Description here
-- [PackETH](#LinkHere) - Description here
-- [Packit](#LinkHere) - Description here
-- [Scapy](#LinkHere) - Description here
-- [SendEmail](#LinkHere) - Description here
-- [Sing](#LinkHere) - Description here
-- [SSLDump](#LinkHere) - Description here
-- [SSLStrip](#LinkHere) - Description here
-- [Tcpreplay](#LinkHere) - Description here
-- [Yersinia](#LinkHere) - Description here
-- [pwntcha](#LinkHere) - Description here
-- [3proxy](#LinkHere) - Description here
-- [CryptCat](#LinkHere) - Description here
-- [ctunnel](#LinkHere) - Description here
-- [Dns2Tcp](#LinkHere) - Description here
-- [Miredo](#LinkHere) - Description here
-- [Nstx](#LinkHere) - Description here
-- [Proxychains](#LinkHere) - Description here
-- [ProxyTunnel](#LinkHere) - Description here
-- [Ptunnel](#LinkHere) - Description here
-- [pwnat](#LinkHere) - Description here
-- [Sbd](#LinkHere) - Description here
-- [Socat](#LinkHere) - Description here
-- [Stunnel4](#LinkHere) - Description here
-- [TinyProxy](#LinkHere) - Description here
-- [UdpTunnel](#LinkHere) - Description here
-- [Injector](#LinkHere) - Description here
-- [HTTP-Tunnel](#LinkHere) - Description here
-- [Super network tunnel](#LinkHere) - Description here
-- [reDuh](#LinkHere) - Description here
-- [Httport](#LinkHere) - Description here
-- [Weevely](#LinkHere) - Description here
-- [macchanger](#LinkHere) - Description here
-- [Beltane](#LinkHere) - Description here
-- [Bro](#LinkHere) - Description here
-- [OSSEC](#LinkHere) - Description here
-- [Psad](#LinkHere) - Description here
-- [Aanval](#LinkHere) - Description here
-- [Samhain](#LinkHere) - Description here
-- [sectool](#LinkHere) - Description here
-- [Snort](#LinkHere) - Description here
-- [Smooth-Sec](#LinkHere) - Description here
-- [Ipt_pkd](#LinkHere) - Description here
-- [Suricata IDPE 1.2.1](#LinkHere) - Description here
-- [Aide](#LinkHere) - Description here
-- [Wormtrack Network IDS](#LinkHere) - Description here
-- [ACID](#LinkHere) - Description here
-- [XArp](#LinkHere) - Description here
-- [PacketFence](#LinkHere) - Description here
-- [     Framework"](#LinkHere) - Description here
-- [ArpON](#LinkHere) - Description here
-- [Snort](#LinkHere) - Description here
-- [Suricata](#LinkHere) - Description here
-- [Psad](#LinkHere) - Description here
-- [Smooth-Sec](#LinkHere) - Description here
-- [NetFilter](#LinkHere) - Description here
-- [Comodo Firewall](#LinkHere) - Description here
-- [PrivateFirewall](#LinkHere) - Description here
-- [Kgpg](#LinkHere) - Description here
-- [Sfill](#LinkHere) - Description here
-- [Smem](#LinkHere) - Description here
-- [Srm](#LinkHere) - Description here
-- [Sswap](#LinkHere) - Description here
-- [TrueCrypt](#LinkHere) - Description here
-- [Mutilate File Wiper](#LinkHere) - Description here
-- [rkhunter](#LinkHere) - Description here
-- [scrub](#LinkHere) - Description here
-- [wipe](#LinkHere) - Description here
-- [OSForensics](#LinkHere) - Description here
-- [AccessData Toolkit ATK](#LinkHere) - Description here
-- [Forensic Image Viewer](#LinkHere) - Description here
-- [FoxAnalysis](#LinkHere) - Description here
-- [Mail Viewer](#LinkHere) - Description here
-- [plecost](#LinkHere) - Description here
-- [wfspy](#LinkHere) - Description here
-- [Windows File Analyzer](#LinkHere) - Description here
-- [SkypeLogView](#LinkHere) - Description here
-- [LiveContactsView](#LinkHere) - Description here
-- [NetworkMiner](#LinkHere) - Description here
-- [UserAssist](#LinkHere) - Description here
-- [USBDeview](#LinkHere) - Description here
-- [USB Device Forensics](#LinkHere) - Description here
-- [Regshot](#LinkHere) - Description here
-- [Registry Decoder](#LinkHere) - Description here
-- [Process Monitor](#LinkHere) - Description here
-- [DriveLook](#LinkHere) - Description here
-- [ForensicUserInfo](#LinkHere) - Description here
-- [OperaPassView](#LinkHere) - Description here
-- [iPhone Analyzer](#LinkHere) - Description here
-- [MANDIANT Memoryze](#LinkHere) - Description here
-- [iPhone Backup Browser](#LinkHere) - Description here
-- [FTK Imager](#LinkHere) - Description here
-- [USB Write Blocker](#LinkHere) - Description here
-- [P2 eXplorer](#LinkHere) - Description here
-- [Agent Ransack](#LinkHere) - Description here
-- [EvidenceMover](#LinkHere) - Description here
-- [Audit Viewer](#LinkHere) - Description here
-- [     (MPE+)"](#LinkHere) - Description here
-- [Registry Viewer](#LinkHere) - Description here
-- [AD Triage](#LinkHere) - Description here
-- [Distributed Network Attack (DNA)](#LinkHere) - Description here
-- [TrIDLib](#LinkHere) - Description here
-- [The Sleuth Kit](#LinkHere) - Description here
-- [Bulk Extractor](#LinkHere) - Description here
-- [Exiftool](#LinkHere) - Description here
-- [Scrounge](#LinkHere) - Description here
-- [recoverjpeg](#LinkHere) - Description here
-- [fatback](#LinkHere) - Description here
-- [PC-3000](#LinkHere) - Description here
-- [analyzeMFT](#LinkHere) - Description here
-- [Rifiuti](#LinkHere) - Description here
-- [Orion Browser Dumper](#LinkHere) - Description here
-- [     Analysis Toolkit"](#LinkHere) - Description here
-- [alphapeeler](#LinkHere) - Description here
-- [CRANK](#LinkHere) - Description here
-- [jcryp](#LinkHere) - Description here
-- [Ganuzua](#LinkHere) - Description here
-- [EverCrack](#LinkHere) - Description here
-- [Advanced Encryption Package](#LinkHere) - Description here
-- [crypto](#LinkHere) - Description here
-- [cypherix](#LinkHere) - Description here
-- [Harden SSL/TLS](#LinkHere) - Description here
-- [SecuBox](#LinkHere) - Description here
-- [ViPNet OFFICE](#LinkHere) - Description here
-- [Drive Crypt](#LinkHere) - Description here
-- [KeePass](#LinkHere) - Description here
-- [Encrypted Disk Detector](#LinkHere) - Description here
-- [Foremost](#LinkHere) - Description here
-- [MagicRescue](#LinkHere) - Description here
-- [VHD Tool](#LinkHere) - Description here
-- [Autopsy](#LinkHere) - Description here
-- [CmosPwd](#LinkHere) - Description here
-- [Digital Forensic Framework](#LinkHere) - Description here
-- [NetworkMiner packet analyzer](#LinkHere) - Description here
-- [RadioGraPhy Forensic](#LinkHere) - Description here
-- [MboxGrep](#LinkHere) - Description here
-- [Pdfbook](#LinkHere) - Description here
-- [Pdgmail](#LinkHere) - Description here
-- [Pdymail](#LinkHere) - Description here
-- [PhotoRec](#LinkHere) - Description here
-- [aft](#LinkHere) - Description here
-- [RegRipper](#LinkHere) - Description here
-- [Scalpel](#LinkHere) - Description here
-- [Sleuth Kit](#LinkHere) - Description here
-- [StreamArmor](#LinkHere) - Description here
-- [Xplico Network Forensic Analysis](#LinkHere) - Description here
-- [TestDisk](#LinkHere) - Description here
-- [ForensicZone](#LinkHere) - Description here
-- [Vinetto](#LinkHere) - Description here
-- [Dtsearch](#LinkHere) - Description here
-- [Winhex](#LinkHere) - Description here
-- [Helix](#LinkHere) - Description here
-- [Mobius Forensic](#LinkHere) - Description here
-- [Mobius Forensic Toolkit](#LinkHere) - Description here
-- [LINReS](#LinkHere) - Description here
-- [revealertoolkit](#LinkHere) - Description here
-- [Stegdetect](#LinkHere) - Description here
-- [RegLookup](#LinkHere) - Description here
-- [Readpst](#LinkHere) - Description here
-- [PTK](#LinkHere) - Description here
-- [pdfid](#LinkHere) - Description here
-- [volatility](#LinkHere) - Description here
-- [dc3dd](#LinkHere) - Description here
-- [NIELD](#LinkHere) - Description here
-- [tcpxtract](#LinkHere) - Description here
-- [Xplico](#LinkHere) - Description here
-- [darkstat](#LinkHere) - Description here
-- [volafox](#LinkHere) - Description here
-- [Afcat](#LinkHere) - Description here
-- [Afcompare](#LinkHere) - Description here
-- [Afconvert](#LinkHere) - Description here
-- [Affix](#LinkHere) - Description here
-- [Afinfo](#LinkHere) - Description here
-- [Afstats](#LinkHere) - Description here
-- [Afxml](#LinkHere) - Description here
-- [Aimage](#LinkHere) - Description here
-- [AIR Imager](#LinkHere) - Description here
-- [Chkrootkit](#LinkHere) - Description here
-- [Clamscan](#LinkHere) - Description here
-- [DCFLDD](#LinkHere) - Description here
-- [Dd_rescue](#LinkHere) - Description here
-- [Galleta](#LinkHere) - Description here
-- [ddrescue](#LinkHere) - Description here
-- [Afick](#LinkHere) - Description here
-- [DownloadHashVerifier](#LinkHere) - Description here
-- [HashCompare](#LinkHere) - Description here
-- [HashGenerator](#LinkHere) - Description here
-- [md5deep](#LinkHere) - Description here
-- [hashdeep](#LinkHere) - Description here
-- [Quick Hash](#LinkHere) - Description here
-- [hash-identifier](#LinkHere) - Description here
-- [Evans Debugger](#LinkHere) - Description here
-- [GDB GNU Debugger](#LinkHere) - Description here
-- [OllyDbg](#LinkHere) - Description here
-- [W32Dasm](#LinkHere) - Description here
-- [Immunity Debugger](#LinkHere) - Description here
-- [SoftICE](#LinkHere) - Description here
-- [IDA](#LinkHere) - Description here
-- [windbg](#LinkHere) - Description here
-- [Paimei](#LinkHere) - Description here
-- [pydasm](#LinkHere) - Description here
-- [mona](#LinkHere) - Description here
-- [Hiew](#LinkHere) - Description here
-- [Syser](#LinkHere) - Description here
-- [METASM](#LinkHere) - Description here
-- [Revelo](#LinkHere) - Description here
-- [wxhexeditor](#LinkHere) - Description here
-- [Okteta](#LinkHere) - Description here
-- [Rubus](#LinkHere) - Description here
-- [IDA Pro](#LinkHere) - Description here
-- [SwfScan](#LinkHere) - Description here
-- [Flasm](#LinkHere) - Description here
-- [BDASM Disassemblers](#LinkHere) - Description here
-- [DeDe Dessembler](#LinkHere) - Description here
-- [CFF Explorer](#LinkHere) - Description here
-- [Strace](#LinkHere) - Description here
-- [Simple Assembly Explorer](#LinkHere) - Description here
-- [Resource Hacker](#LinkHere) - Description here
-- [Turbo Assembler](#LinkHere) - Description here
-- [MASM32 Assembler](#LinkHere) - Description here
-- [NodeZero](#LinkHere) - Description here
-- [BackBox Linux](#LinkHere) - Description here
-- [Matriux](#LinkHere) - Description here
-- [BackTrack](#LinkHere) - Description here
-- [Samurai](#LinkHere) - Description here
-- [DEFT Linux](#LinkHere) - Description here
-- [Matriux](#LinkHere) - Description here
-- [FLY](#LinkHere) - Description here
-- [Grml](#LinkHere) - Description here
-- [Katana](#LinkHere) - Description here
-- [Kon-Boot](#LinkHere) - Description here
-- [Ophcrack](#LinkHere) - Description here
-- [Ultimate Boot CD for Windows](#LinkHere) - Description here
-- [VAST](#LinkHere) - Description here
-- [WeakNet Linux](#LinkHere) - Description here
-- [Blackbuntu](#LinkHere) - Description here
-- [Russian Technology Kit](#LinkHere) - Description here
-- [Basic Fuzzing Framework BFF](#LinkHere) - Description here
-- [Cryptmount](#LinkHere) - Description here
-- [PenTBox](#LinkHere) - Description here
-- [SIFT Workstation](#LinkHere) - Description here
-- [TitanEngine](#LinkHere) - Description here
-- [Hackpack](#LinkHere) - Description here
-- [The e-Security Toolkit](#LinkHere) - Description here
-- [Bugtraq](#LinkHere) - Description here
-- [CAINE](#LinkHere) - Description here
-- [Raptor](#LinkHere) - Description here
-- [INSERT](#LinkHere) - Description here
-- [F.I.R.E](#LinkHere) - Description here
-- [Masterkey!](#LinkHere) - Description here
-- [Operator](#LinkHere) - Description here
-- [Matriux](#LinkHere) - Description here
-- [Ubuntu Rescue Remix](#LinkHere) - Description here
-- [fhclive](#LinkHere) - Description here
-- [Portable Linux Auditing CD](#LinkHere) - Description here
-- [SANS SIFT Workstation](#LinkHere) - Description here
-- [Rifiuti](#LinkHere) - Description here
-- [Malheur](#LinkHere) - Description here
-- [Minibis](#LinkHere) - Description here
-- [ReFrameworker](#LinkHere) - Description here
-- [Yara](#LinkHere) - Description here
-- [ZeroWine](#LinkHere) - Description here
-- [Malware Classifier](#LinkHere) - Description here
-- [androguard](#LinkHere) - Description here
-- [pyew](#LinkHere) - Description here
-- [jsunpack-n](#LinkHere) - Description here
-- [Rootkit Profiler LX](#LinkHere) - Description here
-- [Exefilter](#LinkHere) - Description here
-- [Cuckoo Sandbox](#LinkHere) - Description here
-- [Capture BAT](#LinkHere) - Description here
-- [Jsunpack](#LinkHere) - Description here
-- [Origami](#LinkHere) - Description here
-- [PDFResurrect](#LinkHere) - Description here
-- [PDFStreamDumper](#LinkHere) - Description here
-- [Opaf](#LinkHere) - Description here
-- [Origapy](#LinkHere) - Description here
-- [pyPDF](#LinkHere) - Description here
-- [PDFMiner](#LinkHere) - Description here
-- [PDF Examiner](#LinkHere) - Description here
-- [Sydbox](#LinkHere) - Description here
-- [iScanner](#LinkHere) - Description here
-- [libemu](#LinkHere) - Description here
-- [Shellcode2Exe](#LinkHere) - Description here
-- [scdbg](#LinkHere) - Description here
-- [sclog](#LinkHere) - Description here
-- [Hook Analyser Malware](#LinkHere) - Description here
-- [WeBaCoo](#LinkHere) - Description here
-- [SNMP-BCC](#LinkHere) - Description here
-- [trixdoor](#LinkHere) - Description here
-- [SpyBHORemover](#LinkHere) - Description here
-- [Rootkit Hunter](#LinkHere) - Description here
-- [peepdf](#LinkHere) - Description here
-- [Jynx-Kit](#LinkHere) - Description here
-- [Poison Ivy](#LinkHere) - Description here
-- [Nuclear RAT](#LinkHere) - Description here
-- [Netbus](#LinkHere) - Description here
-- [Darkcomet](#LinkHere) - Description here
-- [BlackShades RAT](#LinkHere) - Description here
-- [CyberGate](#LinkHere) - Description here
-- [DDoSeR](#LinkHere) - Description here
-- [Albertino's Advanced RAT](#LinkHere) - Description here
-- [Clam AntiVirus Toolkit](#LinkHere) - Description here
-- [Qmail-Scanner](#LinkHere) - Description here
-- [Saddam-crypter](#LinkHere) - Description here
-- [MaXcrpt](#LinkHere) - Description here
-- [GMER](#LinkHere) - Description here
-- [SpyDllRemover](#LinkHere) - Description here
-- [StreamArmor](#LinkHere) - Description here
-- [iXKeyLog](#LinkHere) - Description here
-- [Istealer](#LinkHere) - Description here
-- [Elite keylogger](#LinkHere) - Description here
-- [Actual Spy](#LinkHere) - Description here
-- [Advance keylogger](#LinkHere) - Description here
-- [Ardamax](#LinkHere) - Description here
-- [X11 keylogger](#LinkHere) - Description here
-- [Appnimi_PDF_Password_Recovery](#LinkHere) - Description here
-- [AsteriskPasswordSpy](#LinkHere) - Description here
-- [BrowserPasswordDecryptor](#LinkHere) - Description here
-- [ChromePasswordDecryptor](#LinkHere) - Description here
-- [DigsbyPasswordDecryptor](#LinkHere) - Description here
-- [FacebookPasswordDecryptor](#LinkHere) - Description here
-- [FireMaster](#LinkHere) - Description here
-- [FirePassword](#LinkHere) - Description here
-- [FirePasswordViewer](#LinkHere) - Description here
-- [FTPPasswordSniffer](#LinkHere) - Description here
-- [GooglePasswordDecryptor](#LinkHere) - Description here
-- [IEPasswordDecryptor](#LinkHere) - Description here
-- [IMPasswordDecryptor](#LinkHere) - Description here
-- [iTunesPasswordDecryptor](#LinkHere) - Description here
-- [MailPasswordDecryptor](#LinkHere) - Description here
-- [MirandaPasswordDecryptor](#LinkHere) - Description here
-- [MSNLivePasswordDecryptor](#LinkHere) - Description here
-- [MyspacePasswordDecryptor](#LinkHere) - Description here
-- [NetworkPasswordDecryptor](#LinkHere) - Description here
-- [OperaPasswordDecryptor](#LinkHere) - Description here
-- [OutlookPasswordDecryptor](#LinkHere) - Description here
-- [PaltalkPasswordDecryptor](#LinkHere) - Description here
-- [PidginPasswordDecryptor](#LinkHere) - Description here
-- [SafariPasswordDecryptor](#LinkHere) - Description here
-- [ThunderbirdPassDecryptor](#LinkHere) - Description here
-- [TrillianPasswordDecryptor](#LinkHere) - Description here
-- [TwitterPasswordDecryptor](#LinkHere) - Description here
-- [YahooPasswordDecryptor](#LinkHere) - Description here
-- [MySQL Brute Force Tool](#LinkHere) - Description here
-- [POP3 Password Brute Forcer](#LinkHere) - Description here
-- [Hydra Network Logon Cracker 7.1](#LinkHere) - Description here
-- [Sshtrix-0.0.2](#LinkHere) - Description here
-- [Brutus](#LinkHere) - Description here
-- [Patator](#LinkHere) - Description here
-- [WWWhack](#LinkHere) - Description here
-- [sqldict](#LinkHere) - Description here
-- [Dnsspider](#LinkHere) - Description here
-- [PgSql Brute Force](#LinkHere) - Description here
-- [HTTP Brute Force](#LinkHere) - Description here
-- [WebSlayer](#LinkHere) - Description here
-- [J-Baah](#LinkHere) - Description here
-- [Scully](#LinkHere) - Description here
-- [findmyhash.py](#LinkHere) - Description here
-- [IGHASHGPU](#LinkHere) - Description here
-- [RAR CRACKER](#LinkHere) - Description here
-- [Hashcat](#LinkHere) - Description here
-- [Hexedit](#LinkHere) - Description here
-- [Metasploitable](#LinkHere) - Description here
-- [Metasploitable 2](#LinkHere) - Description here
-- [Damn Vulnerable Linux](#LinkHere) - Description here
-- [De-ICE](#LinkHere) - Description here
-- [Holynix](#LinkHere) - Description here
-- [Kioptrix](#LinkHere) - Description here
-- [Hackademic](#LinkHere) - Description here
-- [NETinVM](#LinkHere) - Description here
-- [pWnOS](#LinkHere) - Description here
-- [RuCTFE 2010](#LinkHere) - Description here
-- [HoneyBox](#LinkHere) - Description here
-- [Binary-Auditing](#LinkHere) - Description here
-- [DFRWS 2011 Forensics Challenge](#LinkHere) - Description here
-- [ForensicKB](#LinkHere) - Description here
-- [Honeynet Project Challenges](#LinkHere) - Description here
-- [SecuraLabs Challenge](#LinkHere) - Description here
-- [ExploitMe](#LinkHere) - Description here
-- [BadStore](#LinkHere) - Description here
-- [Damn Vulnerable Web App](#LinkHere) - Description here
-- [HackUS HackFest Web CTF](#LinkHere) - Description here
-- [OWASP Insecure Web App Project](#LinkHere) - Description here
-- [Hackxor](#LinkHere) - Description here
-- [OWASP Vicnum](#LinkHere) - Description here
-- [LAMPSecurity](#LinkHere) - Description here
-- [WebGoat](#LinkHere) - Description here
-- [The BodgeIt Store](#LinkHere) - Description here
-- [Hacme Travel](#LinkHere) - Description here
-- [Moth](#LinkHere) - Description here
-- [Mutillidae](#LinkHere) - Description here
-- [Peruggia](#LinkHere) - Description here
-- [PuzzleMall](#LinkHere) - Description here
-- [SecuriBench](#LinkHere) - Description here
-- [The ButterFly Security Project](#LinkHere) - Description here
-- [VulnApp](#LinkHere) - Description here
-- [OWASP BWA](#LinkHere) - Description here
-- [Google Gruyere](#LinkHere) - Description here
-- [OWASP .NET Goat](#LinkHere) - Description here
-- [Hacme Books](#LinkHere) - Description here
-- [UltimateLAMP](#LinkHere) - Description here
-- [Virtual Hacking Lab](#LinkHere) - Description here
-- [Hacme Shipping](#LinkHere) - Description here
-- [Hacme Bank](#LinkHere) - Description here
-- [WackoPicko](#LinkHere) - Description here
-- [Hacme Casino](#LinkHere) - Description here
-- [WebMaven/Buggy Bank](#LinkHere) - Description here
-- [Web Security Dojo](#LinkHere) - Description here
-- [HackThisSite](#LinkHere) - Description here
-- [Enigma Group - Training Missions](#LinkHere) - Description here
-- [HellBoundHackers](#LinkHere) - Description here
-- [SmashTheStack](#LinkHere) - Description here
-- [Wechall](#LinkHere) - Description here
-- [Hacking-Lab](#LinkHere) - Description here
-- [OverTheWire](#LinkHere) - Description here
-- [pwn0](#LinkHere) - Description here
-- [Biscuit](#LinkHere) - Description here
-- [Gruyere / Jarlsberg](#LinkHere) - Description here
-- [HackThis](#LinkHere) - Description here
-- [hACME](#LinkHere) - Description here
-- [Hackxor](#LinkHere) - Description here
-- [OWASP Vicnum](#LinkHere) - Description here
-- [XSSMe](#LinkHere) - Description here
-- [Can You XSS This?](#LinkHere) - Description here
-- [Test x5s](#LinkHere) - Description here
-- [XSS Progphp](#LinkHere) - Description here
-- [XSS Quiz](#LinkHere) - Description here
-- [weakivgen](#LinkHere) - Description here
-- [Airmon-ng](#LinkHere) - Description here
-- [Hwk](#LinkHere) - Description here
-- [AirSnort](#LinkHere) - Description here
-- [BlueBugger](#LinkHere) - Description here
-- [Bluediving](#LinkHere) - Description here
-- [BlueMaho](#LinkHere) - Description here
-- [BluePrint](#LinkHere) - Description here
-- [BlueSmash](#LinkHere) - Description here
-- [Btscanner](#LinkHere) - Description here
-- [carwhisperer](#LinkHere) - Description here
-- [Haraldscan](#LinkHere) - Description here
-- [HCIDump](#LinkHere) - Description here
-- [Minicom](#LinkHere) - Description here
-- [ObexFTP](#LinkHere) - Description here
-- [Redfang](#LinkHere) - Description here
-- [Ussp-Push](#LinkHere) - Description here
-- [Commview](#LinkHere) - Description here
-- [NetSleuth](#LinkHere) - Description here
-- [SILICA](#LinkHere) - Description here
-- [WiFinger](#LinkHere) - Description here
-- [Ethereal](#LinkHere) - Description here
-- [wwtool v0.1](#LinkHere) - Description here
-- [Airsnarf](#LinkHere) - Description here
-- [Aircrack-NG](#LinkHere) - Description here
-- [asLEAP](#LinkHere) - Description here
-- [coWPAtty](#LinkHere) - Description here
-- [genpmk](#LinkHere) - Description here
-- [Gerix WiFi Cracker-NG](#LinkHere) - Description here
-- [pyrit](#LinkHere) - Description here
-- [spoonWEP](#LinkHere) - Description here
-- [WEPBuster](#LinkHere) - Description here
-- [WEPCRACK](#LinkHere) - Description here
-- [wifite](#LinkHere) - Description here
-- [grimwepa](#LinkHere) - Description here
-- [reaver](#LinkHere) - Description here
-- [WapPy](#LinkHere) - Description here
-- [WiPhire](#LinkHere) - Description here
-- [weplab](#LinkHere) - Description here
-- [wifite](#LinkHere) - Description here
-- [KisMAC](#LinkHere) - Description here
-- [Online WPA Cracker](#LinkHere) - Description here
-- [inSSIDer](#LinkHere) - Description here
-- [Kismet](#LinkHere) - Description here
-- [Netstumbler](#LinkHere) - Description here
-- [WPSpy](#LinkHere) - Description here
-- [wifitap](#LinkHere) - Description here
+- [DnsEnum](https://www.google.com/search?btnI=DnsEnum) - Description here
+- [Dnsmap](https://www.google.com/search?btnI=Dnsmap) - Description here
+- [Dnsrecon](https://www.google.com/search?btnI=Dnsrecon) - Description here
+- [DnsTracer](https://www.google.com/search?btnI=DnsTracer) - Description here
+- [Dns-Walk](https://www.google.com/search?btnI=Walk) - Description here
+- [Fierce](https://www.google.com/search?btnI=Fierce) - Description here
+- [FindDomains](https://www.google.com/search?btnI=FindDomains) - Description here
+- [HostMap](https://www.google.com/search?btnI=HostMap) - Description here
+- [Lynis](https://www.google.com/search?btnI=Lynis) - Description here
+- [OpenMR](https://www.google.com/search?btnI=OpenMR) - Description here
+- [RATS](https://www.google.com/search?btnI=RATS) - Description here
+- [URLcrazy](https://www.google.com/search?btnI=URLcrazy) - Description here
+- [CookieDigger](https://www.google.com/search?btnI=CookieDigger) - Description here
+- [AdSuck DNS Server 2.4.1](https://www.google.com/search?btnI=1) - Description here
+- [Dnsgoblin](https://www.google.com/search?btnI=Dnsgoblin) - Description here
+- [Active Whois](https://www.google.com/search?btnI=Whois) - Description here
+- [URLDIGGER](https://www.google.com/search?btnI=URLDIGGER) - Description here
+- [ritx](https://www.google.com/search?btnI=ritx) - Description here
+- [Emailtrackerpro](https://www.google.com/search?btnI=Emailtrackerpro) - Description here
+- [Samspade](https://www.google.com/search?btnI=Samspade) - Description here
+- [GEO Spider](https://www.google.com/search?btnI=Spider) - Description here
+- [Magic Netrace](https://www.google.com/search?btnI=Netrace) - Description here
+- [3d Visual Tracer](https://www.google.com/search?btnI=Tracer) - Description here
+- [Logcheck](https://www.google.com/search?btnI=Logcheck) - Description here
+- [theHarvester](https://www.google.com/search?btnI=theHarvester) - Description here
+- [Spamhol](https://www.google.com/search?btnI=Spamhol) - Description here
+- [Deblaze](https://www.google.com/search?btnI=Deblaze) - Description here
+- [Argos](https://www.google.com/search?btnI=Argos) - Description here
+- [Honeyd](https://www.google.com/search?btnI=Honeyd) - Description here
+- [Google Hack Honeypot](https://www.google.com/search?btnI=Honeypot) - Description here
+- [Single-honeypot](https://www.google.com/search?btnI=honeypot) - Description here
+- [Fake AP](https://www.google.com/search?btnI=AP) - Description here
+- [phoneyc](https://www.google.com/search?btnI=phoneyc) - Description here
+- [FOCA](https://www.google.com/search?btnI=FOCA) - Description here
+- [OOMetaExtractor](https://www.google.com/search?btnI=OOMetaExtractor) - Description here
+- [4dnstools.com](https://www.google.com/search?btnI=com) - Description here
+- [DnsStuff.com](https://www.google.com/search?btnI=com) - Description here
+- [DnsTools.com](https://www.google.com/search?btnI=com) - Description here
+- [Mxtoolbox.com](https://www.google.com/search?btnI=com) - Description here
+- [Network-Tools.com](https://www.google.com/search?btnI=com) - Description here
+- [robtex.com](https://www.google.com/search?btnI=com) - Description here
+- [Shodan](https://www.google.com/search?btnI=Shodan) - Description here
+- [Nmap](https://www.google.com/search?btnI=Nmap) - Description here
+- [Port check](https://www.google.com/search?btnI=check) - Description here
+- [Open Port Finder](https://www.google.com/search?btnI=Finder) - Description here
+- [Adhoc-IP Tools](https://www.google.com/search?btnI=Tools) - Description here
+- [who.is](https://www.google.com/search?btnI=is) - Description here
+- [ipcalc.org](https://www.google.com/search?btnI=org) - Description here
+- [domxssscanner.com](https://www.google.com/search?btnI=com) - Description here
+- [0trace](https://www.google.com/search?btnI=0trace) - Description here
+- [Itrace](https://www.google.com/search?btnI=Itrace) - Description here
+- [Lanmap2](https://www.google.com/search?btnI=Lanmap2) - Description here
+- [Nat Probe](https://www.google.com/search?btnI=Probe) - Description here
+- [Netenum](https://www.google.com/search?btnI=Netenum) - Description here
+- [Netmask](https://www.google.com/search?btnI=Netmask) - Description here
+- [NMBscan](https://www.google.com/search?btnI=NMBscan) - Description here
+- [Protos](https://www.google.com/search?btnI=Protos) - Description here
+- [Tctrace](https://www.google.com/search?btnI=Tctrace) - Description here
+- [TCPtraceroute](https://www.google.com/search?btnI=TCPtraceroute) - Description here
+- [IRPAS](https://www.google.com/search?btnI=IRPAS) - Description here
+- [Bing-ip2hosts](https://www.google.com/search?btnI=ip2hosts) - Description here
+- [Binging](https://www.google.com/search?btnI=Binging) - Description here
+- [Creepy](https://www.google.com/search?btnI=Creepy) - Description here
+- [Gggooglescan](https://www.google.com/search?btnI=Gggooglescan) - Description here
+- [GoogleHacker](https://www.google.com/search?btnI=GoogleHacker) - Description here
+- [Goorecon](https://www.google.com/search?btnI=Goorecon) - Description here
+- [Gooscan](https://www.google.com/search?btnI=Gooscan) - Description here
+- [Maltego](https://www.google.com/search?btnI=Maltego) - Description here
+- [Metagoofil](https://www.google.com/search?btnI=Metagoofil) - Description here
+- [Scroogle](https://www.google.com/search?btnI=Scroogle) - Description here
+- [SiteDigger](https://www.google.com/search?btnI=SiteDigger) - Description here
+- [Subdomainer](https://www.google.com/search?btnI=Subdomainer) - Description here
+- [Yeti](https://www.google.com/search?btnI=Yeti) - Description here
+- [GoogleDiggity](https://www.google.com/search?btnI=GoogleDiggity) - Description here
+- [vTrace](https://www.google.com/search?btnI=vTrace) - Description here
+- [NetworkMiner](https://www.google.com/search?btnI=NetworkMiner) - Description here
+- [Unicornscan](https://www.google.com/search?btnI=Unicornscan) - Description here
+- [TripWire](https://www.google.com/search?btnI=TripWire) - Description here
+- [dradis](https://www.google.com/search?btnI=dradis) - Description here
+- [pbnj](https://www.google.com/search?btnI=pbnj) - Description here
+- [smtprc](https://www.google.com/search?btnI=smtprc) - Description here
+- [Network Spoofer](https://www.google.com/search?btnI=Spoofer) - Description here
+- [Trout](https://www.google.com/search?btnI=Trout) - Description here
+- [SNScan](https://www.google.com/search?btnI=SNScan) - Description here
+- [ScanLine](https://www.google.com/search?btnI=ScanLine) - Description here
+- [Admin Page Finder Script](https://www.google.com/search?btnI=Script) - Description here
+- [goohost](https://www.google.com/search?btnI=goohost) - Description here
+- [NmapSi4](https://www.google.com/search?btnI=NmapSi4) - Description here
+- [0trace](https://www.google.com/search?btnI=0trace) - Description here
+- [5nmp](https://www.google.com/search?btnI=5nmp) - Description here
+- [Angry IP scanner](https://www.google.com/search?btnI=scanner) - Description here
+- [Autoscan](https://www.google.com/search?btnI=Autoscan) - Description here
+- [Fping](https://www.google.com/search?btnI=Fping) - Description here
+- [Genlist](https://www.google.com/search?btnI=Genlist) - Description here
+- [Hping2](https://www.google.com/search?btnI=Hping2) - Description here
+- [Hping3](https://www.google.com/search?btnI=Hping3) - Description here
+- [Knock](https://www.google.com/search?btnI=Knock) - Description here
+- [Lanmap](https://www.google.com/search?btnI=Lanmap) - Description here
+- [Nbtscan](https://www.google.com/search?btnI=Nbtscan) - Description here
+- [Netdiscover](https://www.google.com/search?btnI=Netdiscover) - Description here
+- [Netifera](https://www.google.com/search?btnI=Netifera) - Description here
+- [Nmap](https://www.google.com/search?btnI=Nmap) - Description here
+- [Nsat](https://www.google.com/search?btnI=Nsat) - Description here
+- [Onesixtyone](https://www.google.com/search?btnI=Onesixtyone) - Description here
+- [OutputPBNJ](https://www.google.com/search?btnI=OutputPBNJ) - Description here
+- [PrismStumbler](https://www.google.com/search?btnI=PrismStumbler) - Description here
+- [ScanPBNJ](https://www.google.com/search?btnI=ScanPBNJ) - Description here
+- [SCTPscan](https://www.google.com/search?btnI=SCTPscan) - Description here
+- [Sslscan](https://www.google.com/search?btnI=Sslscan) - Description here
+- [TCPtraceroute](https://www.google.com/search?btnI=TCPtraceroute) - Description here
+- [Unicornscan](https://www.google.com/search?btnI=Unicornscan) - Description here
+- [Xprobe2](https://www.google.com/search?btnI=Xprobe2) - Description here
+- [Zenmap](https://www.google.com/search?btnI=Zenmap) - Description here
+- [THC-Amap](https://www.google.com/search?btnI=Amap) - Description here
+- [GeoIPgen](https://www.google.com/search?btnI=GeoIPgen) - Description here
+- [Ipnetinfo](https://www.google.com/search?btnI=Ipnetinfo) - Description here
+- [xgps](https://www.google.com/search?btnI=xgps) - Description here
+- [Hyenae](https://www.google.com/search?btnI=Hyenae) - Description here
+- [NetBIOS Share Scanner](https://www.google.com/search?btnI=Scanner) - Description here
+- [ASDIC](https://www.google.com/search?btnI=ASDIC) - Description here
+- [Solsoft ChangeManager](https://www.google.com/search?btnI=ChangeManager) - Description here
+- [Lan-Secure Switch Center](https://www.google.com/search?btnI=Center) - Description here
+- [NetScanTools](https://www.google.com/search?btnI=NetScanTools) - Description here
+- [DHCPDump](https://www.google.com/search?btnI=DHCPDump) - Description here
+- [fragroute](https://www.google.com/search?btnI=fragroute) - Description here
+- [CIScan](https://www.google.com/search?btnI=CIScan) - Description here
+- [BOPing](https://www.google.com/search?btnI=BOPing) - Description here
+- [CredDigger](https://www.google.com/search?btnI=CredDigger) - Description here
+- [Fpipe](https://www.google.com/search?btnI=Fpipe) - Description here
+- [Mxtoolbox.com](https://www.google.com/search?btnI=com) - Description here
+- [5nmp](https://www.google.com/search?btnI=5nmp) - Description here
+- [Autoscan](https://www.google.com/search?btnI=Autoscan) - Description here
+- [Nmap](https://www.google.com/search?btnI=Nmap) - Description here
+- [Nsat](https://www.google.com/search?btnI=Nsat) - Description here
+- [Onesixtyone](https://www.google.com/search?btnI=Onesixtyone) - Description here
+- [P0f](https://www.google.com/search?btnI=P0f) - Description here
+- [Protos](https://www.google.com/search?btnI=Protos) - Description here
+- [Sslscan](https://www.google.com/search?btnI=Sslscan) - Description here
+- [Unicornscan](https://www.google.com/search?btnI=Unicornscan) - Description here
+- [Xprobe2](https://www.google.com/search?btnI=Xprobe2) - Description here
+- [Zenmap](https://www.google.com/search?btnI=Zenmap) - Description here
+- [Cheops-ng](https://www.google.com/search?btnI=ng) - Description here
+- [Winfingerprint](https://www.google.com/search?btnI=Winfingerprint) - Description here
+- [KOLKATA](https://www.google.com/search?btnI=KOLKATA) - Description here
+- [Autoscan](https://www.google.com/search?btnI=Autoscan) - Description here
+- [Genlist](https://www.google.com/search?btnI=Genlist) - Description here
+- [Knocker](https://www.google.com/search?btnI=Knocker) - Description here
+- [Netifera](https://www.google.com/search?btnI=Netifera) - Description here
+- [Nmap](https://www.google.com/search?btnI=Nmap) - Description here
+- [Nsat](https://www.google.com/search?btnI=Nsat) - Description here
+- [OutputPBNJ](https://www.google.com/search?btnI=OutputPBNJ) - Description here
+- [GlypeAhead](https://www.google.com/search?btnI=GlypeAhead) - Description here
+- [ScanPBNJ](https://www.google.com/search?btnI=ScanPBNJ) - Description here
+- [SCTPscan](https://www.google.com/search?btnI=SCTPscan) - Description here
+- [Unicornscan](https://www.google.com/search?btnI=Unicornscan) - Description here
+- [Zenmap](https://www.google.com/search?btnI=Zenmap) - Description here
+- [TCP Fast Scan](https://www.google.com/search?btnI=Scan) - Description here
+- [Superscan](https://www.google.com/search?btnI=Superscan) - Description here
+- [MingSweeper](https://www.google.com/search?btnI=MingSweeper) - Description here
+- [Umap](https://www.google.com/search?btnI=Umap) - Description here
+- [Firewalk](https://www.google.com/search?btnI=Firewalk) - Description here
+- [SendIP](https://www.google.com/search?btnI=SendIP) - Description here
+- [PortSentry](https://www.google.com/search?btnI=PortSentry) - Description here
+- [Currport](https://www.google.com/search?btnI=Currport) - Description here
+- [Nscan](https://www.google.com/search?btnI=Nscan) - Description here
+- [NetworkActiv Scan](https://www.google.com/search?btnI=Scan) - Description here
+- [Blues Port Scanner](https://www.google.com/search?btnI=Scanner) - Description here
+- [Amap](https://www.google.com/search?btnI=Amap) - Description here
+- [Httprint](https://www.google.com/search?btnI=Httprint) - Description here
+- [Httsquash](https://www.google.com/search?btnI=Httsquash) - Description here
+- [Letdown](https://www.google.com/search?btnI=Letdown) - Description here
+- [Nmap](https://www.google.com/search?btnI=Nmap) - Description here
+- [ReverseRaider](https://www.google.com/search?btnI=ReverseRaider) - Description here
+- [Wafp](https://www.google.com/search?btnI=Wafp) - Description here
+- [WhatWeb](https://www.google.com/search?btnI=WhatWeb) - Description here
+- [Polipo](https://www.google.com/search?btnI=Polipo) - Description here
+- [IKE-Scan](https://www.google.com/search?btnI=Scan) - Description here
+- [PSK-Crack](https://www.google.com/search?btnI=Crack) - Description here
+- [homographit](https://www.google.com/search?btnI=homographit) - Description here
+- [Fast-Track](https://www.google.com/search?btnI=Track) - Description here
+- [Inguma](https://www.google.com/search?btnI=Inguma) - Description here
+- [Metasploit](https://www.google.com/search?btnI=Metasploit) - Description here
+- [Subterfuge](https://www.google.com/search?btnI=Subterfuge) - Description here
+- [OpenVas](https://www.google.com/search?btnI=OpenVas) - Description here
+- [Hexjector](https://www.google.com/search?btnI=Hexjector) - Description here
+- [SQLSentinel](https://www.google.com/search?btnI=SQLSentinel) - Description here
+- [Intercepter-NG](https://www.google.com/search?btnI=NG) - Description here
+- [Mole](https://www.google.com/search?btnI=Mole) - Description here
+- [Slowloris](https://www.google.com/search?btnI=Slowloris) - Description here
+- [Dis9-SQL Inj3ction Toolkit](https://www.google.com/search?btnI=Toolkit) - Description here
+- [gafanhoto-sqli](https://www.google.com/search?btnI=sqli) - Description here
+- [BoNeSi](https://www.google.com/search?btnI=BoNeSi) - Description here
+- [Ddosim](https://www.google.com/search?btnI=Ddosim) - Description here
+- [Evilgrade](https://www.google.com/search?btnI=Evilgrade) - Description here
+- [killerbee](https://www.google.com/search?btnI=killerbee) - Description here
+- [pinta](https://www.google.com/search?btnI=pinta) - Description here
+- [web-sorrow](https://www.google.com/search?btnI=sorrow) - Description here
+- [Havij v1.15](https://www.google.com/search?btnI=15) - Description here
+- [dos-recon](https://www.google.com/search?btnI=recon) - Description here
+- [HackPack](https://www.google.com/search?btnI=HackPack) - Description here
+- [T50](https://www.google.com/search?btnI=T50) - Description here
+- [hackbar](https://www.google.com/search?btnI=hackbar) - Description here
+- [sqlcake](https://www.google.com/search?btnI=sqlcake) - Description here
+- [Lfi autopwn.pl](https://www.google.com/search?btnI=pl) - Description here
+- [BLEEDING LIFE](https://www.google.com/search?btnI=LIFE) - Description here
+- [middler](https://www.google.com/search?btnI=middler) - Description here
+- [pani-sql-injector](https://www.google.com/search?btnI=injector) - Description here
+- [ghost-phisher](https://www.google.com/search?btnI=phisher) - Description here
+- [loginsystem-rd](https://www.google.com/search?btnI=rd) - Description here
+- [sqlroute](https://www.google.com/search?btnI=sqlroute) - Description here
+- [itbp](https://www.google.com/search?btnI=itbp) - Description here
+- [Pyloris](https://www.google.com/search?btnI=Pyloris) - Description here
+- [hulk](https://www.google.com/search?btnI=hulk) - Description here
+- [Ransack](https://www.google.com/search?btnI=Ransack) - Description here
+- [Ani-Shell](https://www.google.com/search?btnI=Shell) - Description here
+- [TorsHammer](https://www.google.com/search?btnI=TorsHammer) - Description here
+- [r-u-dead-yet](https://www.google.com/search?btnI=yet) - Description here
+- [ExploitMyUnion](https://www.google.com/search?btnI=ExploitMyUnion) - Description here
+- [PHP SQL Injection sCanner](https://www.google.com/search?btnI=sCanner) - Description here
+- [BOBCAT](https://www.google.com/search?btnI=BOBCAT) - Description here
+- [NTO SQL Invader](https://www.google.com/search?btnI=Invader) - Description here
+- [dnsdrdos](https://www.google.com/search?btnI=dnsdrdos) - Description here
+- [Sql Poison](https://www.google.com/search?btnI=Poison) - Description here
+- [Marathon](https://www.google.com/search?btnI=Marathon) - Description here
+- [darkBing SQL Scanner](https://www.google.com/search?btnI=Scanner) - Description here
+- [Anti-Shell](https://www.google.com/search?btnI=Shell) - Description here
+- [owasp-dos-http-post](https://www.google.com/search?btnI=post) - Description here
+- [witool](https://www.google.com/search?btnI=witool) - Description here
+- [epb](https://www.google.com/search?btnI=epb) - Description here
+- [PRIAMOS](https://www.google.com/search?btnI=PRIAMOS) - Description here
+- [xCat](https://www.google.com/search?btnI=xCat) - Description here
+- [SFX-SQLI](https://www.google.com/search?btnI=SQLI) - Description here
+- [SQLIer](https://www.google.com/search?btnI=SQLIer) - Description here
+- [Exploit Pack](https://www.google.com/search?btnI=Pack) - Description here
+- [FG-Injector](https://www.google.com/search?btnI=Injector) - Description here
+- [Sqid](https://www.google.com/search?btnI=Sqid) - Description here
+- [H.O.I.C](https://www.google.com/search?btnI=C) - Description here
+- [Wpoison](https://www.google.com/search?btnI=Wpoison) - Description here
+- [SQLol](https://www.google.com/search?btnI=SQLol) - Description here
+- [d0z.me](https://www.google.com/search?btnI=me) - Description here
+- [Pangolin](https://www.google.com/search?btnI=Pangolin) - Description here
+- [Mallory](https://www.google.com/search?btnI=Mallory) - Description here
+- [bsqlbf](https://www.google.com/search?btnI=bsqlbf) - Description here
+- [Absinthe](https://www.google.com/search?btnI=Absinthe) - Description here
+- [THC-SSL-DOS](https://www.google.com/search?btnI=DOS) - Description here
+- [Blind cat](https://www.google.com/search?btnI=cat) - Description here
+- [Ca0s SQL Perl Inj3ct0r](https://www.google.com/search?btnI=Inj3ct0r) - Description here
+- [Cymothoa](https://www.google.com/search?btnI=Cymothoa) - Description here
+- [THC-ip6](https://www.google.com/search?btnI=ip6) - Description here
+- [Cisco Global Exploiter](https://www.google.com/search?btnI=Exploiter) - Description here
+- [safe3 sql injector](https://www.google.com/search?btnI=injector) - Description here
+- [Sapyto](https://www.google.com/search?btnI=Sapyto) - Description here
+- [Darkmysqli](https://www.google.com/search?btnI=Darkmysqli) - Description here
+- [Padbuster](https://www.google.com/search?btnI=Padbuster) - Description here
+- [Wfetch](https://www.google.com/search?btnI=Wfetch) - Description here
+- [WITOOL](https://www.google.com/search?btnI=WITOOL) - Description here
+- [Injectioncrawler](https://www.google.com/search?btnI=Injectioncrawler) - Description here
+- [Enema](https://www.google.com/search?btnI=Enema) - Description here
+- [Firefuzzer](https://www.google.com/search?btnI=Firefuzzer) - Description here
+- [Acte](https://www.google.com/search?btnI=Acte) - Description here
+- [Pysqlin](https://www.google.com/search?btnI=Pysqlin) - Description here
+- [Databasesecuritytesting](https://www.google.com/search?btnI=Databasesecuritytesting) - Description here
+- [Sqlinject-finder](https://www.google.com/search?btnI=finder) - Description here
+- [slowhttptest](https://www.google.com/search?btnI=slowhttptest) - Description here
+- [mpi4py](https://www.google.com/search?btnI=mpi4py) - Description here
+- [killerbee](https://www.google.com/search?btnI=killerbee) - Description here
+- [winAUTOPWN](https://www.google.com/search?btnI=winAUTOPWN) - Description here
+- [XssF](https://www.google.com/search?btnI=XssF) - Description here
+- [THC SSL DOS](https://www.google.com/search?btnI=DOS) - Description here
+- [DDkiller](https://www.google.com/search?btnI=DDkiller) - Description here
+- [Blind XPath Injection](https://www.google.com/search?btnI=Injection) - Description here
+- [Blind LDAP Injection](https://www.google.com/search?btnI=Injection) - Description here
+- [maxsqli-syntax-maker](https://www.google.com/search?btnI=maker) - Description here
+- [sqlifuzzer](https://www.google.com/search?btnI=sqlifuzzer) - Description here
+- [Lycaon Web Vulnerability](https://www.google.com/search?btnI=Vulnerability) - Description here
+- [Fatcat SQLinjector](https://www.google.com/search?btnI=SQLinjector) - Description here
+- [freqcounter-sqlinjector](https://www.google.com/search?btnI=sqlinjector) - Description here
+- [sqlibench](https://www.google.com/search?btnI=sqlibench) - Description here
+- [Low Orbit](https://www.google.com/search?btnI=Orbit) - Description here
+- [synblock](https://www.google.com/search?btnI=synblock) - Description here
+- [ISR-SQLGET](https://www.google.com/search?btnI=SQLGET) - Description here
+- [Exploit-Me](https://www.google.com/search?btnI=Me) - Description here
+- [IPPON](https://www.google.com/search?btnI=IPPON) - Description here
+- [warvox](https://www.google.com/search?btnI=warvox) - Description here
+- [Cobalt Strike](https://www.google.com/search?btnI=Strike) - Description here
+- [Metasploit](https://www.google.com/search?btnI=Metasploit) - Description here
+- [Mercury](https://www.google.com/search?btnI=Mercury) - Description here
+- [OpenSCAP](https://www.google.com/search?btnI=OpenSCAP) - Description here
+- [rsif](https://www.google.com/search?btnI=rsif) - Description here
+- [Phemail.py](https://www.google.com/search?btnI=py) - Description here
+- [Xenotix XSS Exploit Framework](https://www.google.com/search?btnI=Framework) - Description here
+- [Bed](https://www.google.com/search?btnI=Bed) - Description here
+- [Bf2](https://www.google.com/search?btnI=Bf2) - Description here
+- [Bunny](https://www.google.com/search?btnI=Bunny) - Description here
+- [Dkftpbench](https://www.google.com/search?btnI=Dkftpbench) - Description here
+- [FuzzDb](https://www.google.com/search?btnI=FuzzDb) - Description here
+- [Fzem](https://www.google.com/search?btnI=Fzem) - Description here
+- [JbroFuzz](https://www.google.com/search?btnI=JbroFuzz) - Description here
+- [MiniFuzz File Fuzzer](https://www.google.com/search?btnI=Fuzzer) - Description here
+- [ftp-fuzz](https://www.google.com/search?btnI=fuzz) - Description here
+- [Powerfuzzer](https://www.google.com/search?btnI=Powerfuzzer) - Description here
+- [fuzzer toolkit](https://www.google.com/search?btnI=toolkit) - Description here
+- [tftp-fuzz](https://www.google.com/search?btnI=fuzz) - Description here
+- [Peach](https://www.google.com/search?btnI=Peach) - Description here
+- [untidy](https://www.google.com/search?btnI=untidy) - Description here
+- [Peach Fuzzing Platform](https://www.google.com/search?btnI=Platform) - Description here
+- [Fuzzer Toolkit](https://www.google.com/search?btnI=Toolkit) - Description here
+- [Sfuzz](https://www.google.com/search?btnI=Sfuzz) - Description here
+- [Sulley](https://www.google.com/search?btnI=Sulley) - Description here
+- [antiparser](https://www.google.com/search?btnI=antiparser) - Description here
+- [Fusil](https://www.google.com/search?btnI=Fusil) - Description here
+- [Spike](https://www.google.com/search?btnI=Spike) - Description here
+- [Fuzzbox](https://www.google.com/search?btnI=Fuzzbox) - Description here
+- [Voiper](https://www.google.com/search?btnI=Voiper) - Description here
+- [WSFuzzer](https://www.google.com/search?btnI=WSFuzzer) - Description here
+- [ZZuf](https://www.google.com/search?btnI=ZZuf) - Description here
+- [UniOFuzz Universal Fuzzer Tool](https://www.google.com/search?btnI=Tool) - Description here
+- [Wikto](https://www.google.com/search?btnI=Wikto) - Description here
+- [LFI Fuzzploit Tool](https://www.google.com/search?btnI=Tool) - Description here
+- [PHP Vulnerability Hunter](https://www.google.com/search?btnI=Hunter) - Description here
+- [CAT](https://www.google.com/search?btnI=CAT) - Description here
+- [AxMan](https://www.google.com/search?btnI=AxMan) - Description here
+- [Malybuzz](https://www.google.com/search?btnI=Malybuzz) - Description here
+- [rfuzz](https://www.google.com/search?btnI=rfuzz) - Description here
+- [Impacket Samrdump](https://www.google.com/search?btnI=Samrdump) - Description here
+- [Impacket Smbclient](https://www.google.com/search?btnI=Smbclient) - Description here
+- [keimpx](https://www.google.com/search?btnI=keimpx) - Description here
+- [Smb4k](https://www.google.com/search?btnI=Smb4k) - Description here
+- [Smbclient](https://www.google.com/search?btnI=Smbclient) - Description here
+- [ADMSnmp](https://www.google.com/search?btnI=ADMSnmp) - Description here
+- [Braa](https://www.google.com/search?btnI=Braa) - Description here
+- [SnmpCheck](https://www.google.com/search?btnI=SnmpCheck) - Description here
+- [SnmpEnum](https://www.google.com/search?btnI=SnmpEnum) - Description here
+- [SnmpWalk](https://www.google.com/search?btnI=SnmpWalk) - Description here
+- [CAT.NET](https://www.google.com/search?btnI=NET) - Description here
+- [Dotdefender](https://www.google.com/search?btnI=Dotdefender) - Description here
+- [Microsoft Url Scan](https://www.google.com/search?btnI=Scan) - Description here
+- [GreenSql](https://www.google.com/search?btnI=GreenSql) - Description here
+- [HP Scrawlr](https://www.google.com/search?btnI=Scrawlr) - Description here
+- [Sqlstripes](https://www.google.com/search?btnI=Sqlstripes) - Description here
+- [Social-Engineering Toolkit (SET)](https://www.google.com/search?btnI=SET) - Description here
+- [FakeIKEd](https://www.google.com/search?btnI=FakeIKEd) - Description here
+- [Graudit](https://www.google.com/search?btnI=Graudit) - Description here
+- [Nessus Parsing Tools](https://www.google.com/search?btnI=Tools) - Description here
+- [WATOBO](https://www.google.com/search?btnI=WATOBO) - Description here
+- [MagicTree](https://www.google.com/search?btnI=MagicTree) - Description here
+- [WordPress Security Scanner 1.1](https://www.google.com/search?btnI=1) - Description here
+- [Yasca](https://www.google.com/search?btnI=Yasca) - Description here
+- [WebSploit Toolkit](https://www.google.com/search?btnI=Toolkit) - Description here
+- [UrlScan 3.1](https://www.google.com/search?btnI=1) - Description here
+- [Sara](https://www.google.com/search?btnI=Sara) - Description here
+- [Gsd](https://www.google.com/search?btnI=Gsd) - Description here
+- [Mpack](https://www.google.com/search?btnI=Mpack) - Description here
+- [aidSQL](https://www.google.com/search?btnI=aidSQL) - Description here
+- [Golismero](https://www.google.com/search?btnI=Golismero) - Description here
+- [WebGoat](https://www.google.com/search?btnI=WebGoat) - Description here
+- [GoLismero](https://www.google.com/search?btnI=GoLismero) - Description here
+- [Lilith](https://www.google.com/search?btnI=Lilith) - Description here
+- [websurgery](https://www.google.com/search?btnI=websurgery) - Description here
+- [IronWASP](https://www.google.com/search?btnI=IronWASP) - Description here
+- [Vasto](https://www.google.com/search?btnI=Vasto) - Description here
+- [VEGA](https://www.google.com/search?btnI=VEGA) - Description here
+- [BiDiBLAH](https://www.google.com/search?btnI=BiDiBLAH) - Description here
+- [DllHijackAuditor](https://www.google.com/search?btnI=DllHijackAuditor) - Description here
+- [Nessus](https://www.google.com/search?btnI=Nessus) - Description here
+- [OpenVAS](https://www.google.com/search?btnI=OpenVAS) - Description here
+- [Dark D0rk3r 0.3](https://www.google.com/search?btnI=3) - Description here
+- [Fwknop Port Knocking Utility 2.0](https://www.google.com/search?btnI=0) - Description here
+- [Nexpose](https://www.google.com/search?btnI=Nexpose) - Description here
+- [Fluxay](https://www.google.com/search?btnI=Fluxay) - Description here
+- [GFI LanGuard](https://www.google.com/search?btnI=LanGuard) - Description here
+- [Acunetix WVS](https://www.google.com/search?btnI=WVS) - Description here
+- [RIPS](https://www.google.com/search?btnI=RIPS) - Description here
+- [VulnDetector](https://www.google.com/search?btnI=VulnDetector) - Description here
+- [Uniscan](https://www.google.com/search?btnI=Uniscan) - Description here
+- [safe3](https://www.google.com/search?btnI=safe3) - Description here
+- [Joomla Folder Scanner](https://www.google.com/search?btnI=Scanner) - Description here
+- [maxisploit-scanner](https://www.google.com/search?btnI=scanner) - Description here
+- [sslyze](https://www.google.com/search?btnI=sslyze) - Description here
+- [Lycaon Web Vulnerability](https://www.google.com/search?btnI=Vulnerability) - Description here
+- [xss Scanner](https://www.google.com/search?btnI=Scanner) - Description here
+- [Gamja](https://www.google.com/search?btnI=Gamja) - Description here
+- [xSQL scanner](https://www.google.com/search?btnI=scanner) - Description here
+- [GSCRAPE](https://www.google.com/search?btnI=GSCRAPE) - Description here
+- [Vanguard](https://www.google.com/search?btnI=Vanguard) - Description here
+- [Damn small SQLI Scanner](https://www.google.com/search?btnI=Scanner) - Description here
+- [N-Stalker](https://www.google.com/search?btnI=Stalker) - Description here
+- [Xscan](https://www.google.com/search?btnI=Xscan) - Description here
+- [Vanguard Pentesting Scanner](https://www.google.com/search?btnI=Scanner) - Description here
+- [Saint](https://www.google.com/search?btnI=Saint) - Description here
+- [Alelier](https://www.google.com/search?btnI=Alelier) - Description here
+- [Shadow Security Scanner](https://www.google.com/search?btnI=Scanner) - Description here
+- [Mopest](https://www.google.com/search?btnI=Mopest) - Description here
+- [WebCruiser](https://www.google.com/search?btnI=WebCruiser) - Description here
+- [XCode Exploit](https://www.google.com/search?btnI=Exploit) - Description here
+- [XssScanner](https://www.google.com/search?btnI=XssScanner) - Description here
+- [CSRFScanner](https://www.google.com/search?btnI=CSRFScanner) - Description here
+- [ERPScan SaaS](https://www.google.com/search?btnI=SaaS) - Description here
+- [XCobra](https://www.google.com/search?btnI=XCobra) - Description here
+- [solarwinds](https://www.google.com/search?btnI=solarwinds) - Description here
+- [DDosPing](https://www.google.com/search?btnI=DDosPing) - Description here
+- [DIRE](https://www.google.com/search?btnI=DIRE) - Description here
+- [DSScan](https://www.google.com/search?btnI=DSScan) - Description here
+- [DAVTest](https://www.google.com/search?btnI=DAVTest) - Description here
+- [KrbGuess](https://www.google.com/search?btnI=KrbGuess) - Description here
+- [Ncrack](https://www.google.com/search?btnI=Ncrack) - Description here
+- [MACAddresschanger](https://www.google.com/search?btnI=MACAddresschanger) - Description here
+- [kippo](https://www.google.com/search?btnI=kippo) - Description here
+- [Eraseme](https://www.google.com/search?btnI=Eraseme) - Description here
+- [Bkhive](https://www.google.com/search?btnI=Bkhive) - Description here
+- [Crunch](https://www.google.com/search?btnI=Crunch) - Description here
+- [CUPP](https://www.google.com/search?btnI=CUPP) - Description here
+- [John](https://www.google.com/search?btnI=John) - Description here
+- [Pw-Inspector](https://www.google.com/search?btnI=Inspector) - Description here
+- [Rainbowcrack](https://www.google.com/search?btnI=Rainbowcrack) - Description here
+- [Rarcrack](https://www.google.com/search?btnI=Rarcrack) - Description here
+- [Samdump2](https://www.google.com/search?btnI=Samdump2) - Description here
+- [Saltymd5](https://www.google.com/search?btnI=Saltymd5) - Description here
+- [Wyd](https://www.google.com/search?btnI=Wyd) - Description here
+- [Cain And Abel](https://www.google.com/search?btnI=Abel) - Description here
+- [RAR Password Cracker](https://www.google.com/search?btnI=Cracker) - Description here
+- [fcrackzip](https://www.google.com/search?btnI=fcrackzip) - Description here
+- [chntpw](https://www.google.com/search?btnI=chntpw) - Description here
+- [enumiax](https://www.google.com/search?btnI=enumiax) - Description here
+- [FSCrack](https://www.google.com/search?btnI=FSCrack) - Description here
+- [Bruter](https://www.google.com/search?btnI=Bruter) - Description here
+- [BruteSSH](https://www.google.com/search?btnI=BruteSSH) - Description here
+- [Hydra](https://www.google.com/search?btnI=Hydra) - Description here
+- [Lodowep](https://www.google.com/search?btnI=Lodowep) - Description here
+- [Medusa](https://www.google.com/search?btnI=Medusa) - Description here
+- [SSHatter](https://www.google.com/search?btnI=SSHatter) - Description here
+- [TFTP-Bruteforce](https://www.google.com/search?btnI=Bruteforce) - Description here
+- [Arpalert](https://www.google.com/search?btnI=Arpalert) - Description here
+- [Driftnet](https://www.google.com/search?btnI=Driftnet) - Description here
+- [DSniff](https://www.google.com/search?btnI=DSniff) - Description here
+- [Etherape](https://www.google.com/search?btnI=Etherape) - Description here
+- [Ettercap](https://www.google.com/search?btnI=Ettercap) - Description here
+- [Ferret](https://www.google.com/search?btnI=Ferret) - Description here
+- [Fimap](https://www.google.com/search?btnI=Fimap) - Description here
+- [GToolBarSnoop](https://www.google.com/search?btnI=GToolBarSnoop) - Description here
+- [Hamster](https://www.google.com/search?btnI=Hamster) - Description here
+- [MIMEDefang](https://www.google.com/search?btnI=MIMEDefang) - Description here
+- [Ntop](https://www.google.com/search?btnI=Ntop) - Description here
+- [SMBRelay](https://www.google.com/search?btnI=SMBRelay) - Description here
+- [SSLDump](https://www.google.com/search?btnI=SSLDump) - Description here
+- [SSLStrip](https://www.google.com/search?btnI=SSLStrip) - Description here
+- [TcPick](https://www.google.com/search?btnI=TcPick) - Description here
+- [Wireshark](https://www.google.com/search?btnI=Wireshark) - Description here
+- [Xspy](https://www.google.com/search?btnI=Xspy) - Description here
+- [Tcpdump](https://www.google.com/search?btnI=Tcpdump) - Description here
+- [Driftnet](https://www.google.com/search?btnI=Driftnet) - Description here
+- [Hexinject](https://www.google.com/search?btnI=Hexinject) - Description here
+- [sslsniff](https://www.google.com/search?btnI=sslsniff) - Description here
+- [sniffjoke](https://www.google.com/search?btnI=sniffjoke) - Description here
+- [sessionlist](https://www.google.com/search?btnI=sessionlist) - Description here
+- [CSniffer](https://www.google.com/search?btnI=CSniffer) - Description here
+- [ADM-Dns-Tools](https://www.google.com/search?btnI=Tools) - Description here
+- [Etherape](https://www.google.com/search?btnI=Etherape) - Description here
+- [Ettercap](https://www.google.com/search?btnI=Ettercap) - Description here
+- [ICMP Redirect](https://www.google.com/search?btnI=Redirect) - Description here
+- [IGRP Route Injection](https://www.google.com/search?btnI=Injection) - Description here
+- [IRDP Responder](https://www.google.com/search?btnI=Responder) - Description here
+- [Nemesis](https://www.google.com/search?btnI=Nemesis) - Description here
+- [Netenum](https://www.google.com/search?btnI=Netenum) - Description here
+- [NetSed](https://www.google.com/search?btnI=NetSed) - Description here
+- [PackETH](https://www.google.com/search?btnI=PackETH) - Description here
+- [Packit](https://www.google.com/search?btnI=Packit) - Description here
+- [Scapy](https://www.google.com/search?btnI=Scapy) - Description here
+- [SendEmail](https://www.google.com/search?btnI=SendEmail) - Description here
+- [Sing](https://www.google.com/search?btnI=Sing) - Description here
+- [SSLDump](https://www.google.com/search?btnI=SSLDump) - Description here
+- [SSLStrip](https://www.google.com/search?btnI=SSLStrip) - Description here
+- [Tcpreplay](https://www.google.com/search?btnI=Tcpreplay) - Description here
+- [Yersinia](https://www.google.com/search?btnI=Yersinia) - Description here
+- [pwntcha](https://www.google.com/search?btnI=pwntcha) - Description here
+- [3proxy](https://www.google.com/search?btnI=3proxy) - Description here
+- [CryptCat](https://www.google.com/search?btnI=CryptCat) - Description here
+- [ctunnel](https://www.google.com/search?btnI=ctunnel) - Description here
+- [Dns2Tcp](https://www.google.com/search?btnI=Dns2Tcp) - Description here
+- [Miredo](https://www.google.com/search?btnI=Miredo) - Description here
+- [Nstx](https://www.google.com/search?btnI=Nstx) - Description here
+- [Proxychains](https://www.google.com/search?btnI=Proxychains) - Description here
+- [ProxyTunnel](https://www.google.com/search?btnI=ProxyTunnel) - Description here
+- [Ptunnel](https://www.google.com/search?btnI=Ptunnel) - Description here
+- [pwnat](https://www.google.com/search?btnI=pwnat) - Description here
+- [Sbd](https://www.google.com/search?btnI=Sbd) - Description here
+- [Socat](https://www.google.com/search?btnI=Socat) - Description here
+- [Stunnel4](https://www.google.com/search?btnI=Stunnel4) - Description here
+- [TinyProxy](https://www.google.com/search?btnI=TinyProxy) - Description here
+- [UdpTunnel](https://www.google.com/search?btnI=UdpTunnel) - Description here
+- [Injector](https://www.google.com/search?btnI=Injector) - Description here
+- [HTTP-Tunnel](https://www.google.com/search?btnI=Tunnel) - Description here
+- [Super network tunnel](https://www.google.com/search?btnI=tunnel) - Description here
+- [reDuh](https://www.google.com/search?btnI=reDuh) - Description here
+- [Httport](https://www.google.com/search?btnI=Httport) - Description here
+- [Weevely](https://www.google.com/search?btnI=Weevely) - Description here
+- [macchanger](https://www.google.com/search?btnI=macchanger) - Description here
+- [Beltane](https://www.google.com/search?btnI=Beltane) - Description here
+- [Bro](https://www.google.com/search?btnI=Bro) - Description here
+- [OSSEC](https://www.google.com/search?btnI=OSSEC) - Description here
+- [Psad](https://www.google.com/search?btnI=Psad) - Description here
+- [Aanval](https://www.google.com/search?btnI=Aanval) - Description here
+- [Samhain](https://www.google.com/search?btnI=Samhain) - Description here
+- [sectool](https://www.google.com/search?btnI=sectool) - Description here
+- [Snort](https://www.google.com/search?btnI=Snort) - Description here
+- [Smooth-Sec](https://www.google.com/search?btnI=Sec) - Description here
+- [Ipt_pkd](https://www.google.com/search?btnI=Ipt_pkd) - Description here
+- [Suricata IDPE 1.2.1](https://www.google.com/search?btnI=1) - Description here
+- [Aide](https://www.google.com/search?btnI=Aide) - Description here
+- [Wormtrack Network IDS](https://www.google.com/search?btnI=IDS) - Description here
+- [ACID](https://www.google.com/search?btnI=ACID) - Description here
+- [XArp](https://www.google.com/search?btnI=XArp) - Description here
+- [PacketFence](https://www.google.com/search?btnI=PacketFence) - Description here
+- [     Framework"](https://www.google.com/search?btnI=Framework) - Description here
+- [ArpON](https://www.google.com/search?btnI=ArpON) - Description here
+- [Snort](https://www.google.com/search?btnI=Snort) - Description here
+- [Suricata](https://www.google.com/search?btnI=Suricata) - Description here
+- [Psad](https://www.google.com/search?btnI=Psad) - Description here
+- [Smooth-Sec](https://www.google.com/search?btnI=Sec) - Description here
+- [NetFilter](https://www.google.com/search?btnI=NetFilter) - Description here
+- [Comodo Firewall](https://www.google.com/search?btnI=Firewall) - Description here
+- [PrivateFirewall](https://www.google.com/search?btnI=PrivateFirewall) - Description here
+- [Kgpg](https://www.google.com/search?btnI=Kgpg) - Description here
+- [Sfill](https://www.google.com/search?btnI=Sfill) - Description here
+- [Smem](https://www.google.com/search?btnI=Smem) - Description here
+- [Srm](https://www.google.com/search?btnI=Srm) - Description here
+- [Sswap](https://www.google.com/search?btnI=Sswap) - Description here
+- [TrueCrypt](https://www.google.com/search?btnI=TrueCrypt) - Description here
+- [Mutilate File Wiper](https://www.google.com/search?btnI=Wiper) - Description here
+- [rkhunter](https://www.google.com/search?btnI=rkhunter) - Description here
+- [scrub](https://www.google.com/search?btnI=scrub) - Description here
+- [wipe](https://www.google.com/search?btnI=wipe) - Description here
+- [OSForensics](https://www.google.com/search?btnI=OSForensics) - Description here
+- [AccessData Toolkit ATK](https://www.google.com/search?btnI=ATK) - Description here
+- [Forensic Image Viewer](https://www.google.com/search?btnI=Viewer) - Description here
+- [FoxAnalysis](https://www.google.com/search?btnI=FoxAnalysis) - Description here
+- [Mail Viewer](https://www.google.com/search?btnI=Viewer) - Description here
+- [plecost](https://www.google.com/search?btnI=plecost) - Description here
+- [wfspy](https://www.google.com/search?btnI=wfspy) - Description here
+- [Windows File Analyzer](https://www.google.com/search?btnI=Analyzer) - Description here
+- [SkypeLogView](https://www.google.com/search?btnI=SkypeLogView) - Description here
+- [LiveContactsView](https://www.google.com/search?btnI=LiveContactsView) - Description here
+- [NetworkMiner](https://www.google.com/search?btnI=NetworkMiner) - Description here
+- [UserAssist](https://www.google.com/search?btnI=UserAssist) - Description here
+- [USBDeview](https://www.google.com/search?btnI=USBDeview) - Description here
+- [USB Device Forensics](https://www.google.com/search?btnI=Forensics) - Description here
+- [Regshot](https://www.google.com/search?btnI=Regshot) - Description here
+- [Registry Decoder](https://www.google.com/search?btnI=Decoder) - Description here
+- [Process Monitor](https://www.google.com/search?btnI=Monitor) - Description here
+- [DriveLook](https://www.google.com/search?btnI=DriveLook) - Description here
+- [ForensicUserInfo](https://www.google.com/search?btnI=ForensicUserInfo) - Description here
+- [OperaPassView](https://www.google.com/search?btnI=OperaPassView) - Description here
+- [iPhone Analyzer](https://www.google.com/search?btnI=Analyzer) - Description here
+- [MANDIANT Memoryze](https://www.google.com/search?btnI=Memoryze) - Description here
+- [iPhone Backup Browser](https://www.google.com/search?btnI=Browser) - Description here
+- [FTK Imager](https://www.google.com/search?btnI=Imager) - Description here
+- [USB Write Blocker](https://www.google.com/search?btnI=Blocker) - Description here
+- [P2 eXplorer](https://www.google.com/search?btnI=eXplorer) - Description here
+- [Agent Ransack](https://www.google.com/search?btnI=Ransack) - Description here
+- [EvidenceMover](https://www.google.com/search?btnI=EvidenceMover) - Description here
+- [Audit Viewer](https://www.google.com/search?btnI=Viewer) - Description here
+- [     (MPE+)"](https://www.google.com/search?btnI=MPE) - Description here
+- [Registry Viewer](https://www.google.com/search?btnI=Viewer) - Description here
+- [AD Triage](https://www.google.com/search?btnI=Triage) - Description here
+- [Distributed Network Attack (DNA)](https://www.google.com/search?btnI=DNA) - Description here
+- [TrIDLib](https://www.google.com/search?btnI=TrIDLib) - Description here
+- [The Sleuth Kit](https://www.google.com/search?btnI=Kit) - Description here
+- [Bulk Extractor](https://www.google.com/search?btnI=Extractor) - Description here
+- [Exiftool](https://www.google.com/search?btnI=Exiftool) - Description here
+- [Scrounge](https://www.google.com/search?btnI=Scrounge) - Description here
+- [recoverjpeg](https://www.google.com/search?btnI=recoverjpeg) - Description here
+- [fatback](https://www.google.com/search?btnI=fatback) - Description here
+- [PC-3000](https://www.google.com/search?btnI=3000) - Description here
+- [analyzeMFT](https://www.google.com/search?btnI=analyzeMFT) - Description here
+- [Rifiuti](https://www.google.com/search?btnI=Rifiuti) - Description here
+- [Orion Browser Dumper](https://www.google.com/search?btnI=Dumper) - Description here
+- [     Analysis Toolkit"](https://www.google.com/search?btnI=Toolkit) - Description here
+- [alphapeeler](https://www.google.com/search?btnI=alphapeeler) - Description here
+- [CRANK](https://www.google.com/search?btnI=CRANK) - Description here
+- [jcryp](https://www.google.com/search?btnI=jcryp) - Description here
+- [Ganuzua](https://www.google.com/search?btnI=Ganuzua) - Description here
+- [EverCrack](https://www.google.com/search?btnI=EverCrack) - Description here
+- [Advanced Encryption Package](https://www.google.com/search?btnI=Package) - Description here
+- [crypto](https://www.google.com/search?btnI=crypto) - Description here
+- [cypherix](https://www.google.com/search?btnI=cypherix) - Description here
+- [Harden SSL/TLS](https://www.google.com/search?btnI=TLS) - Description here
+- [SecuBox](https://www.google.com/search?btnI=SecuBox) - Description here
+- [ViPNet OFFICE](https://www.google.com/search?btnI=OFFICE) - Description here
+- [Drive Crypt](https://www.google.com/search?btnI=Crypt) - Description here
+- [KeePass](https://www.google.com/search?btnI=KeePass) - Description here
+- [Encrypted Disk Detector](https://www.google.com/search?btnI=Detector) - Description here
+- [Foremost](https://www.google.com/search?btnI=Foremost) - Description here
+- [MagicRescue](https://www.google.com/search?btnI=MagicRescue) - Description here
+- [VHD Tool](https://www.google.com/search?btnI=Tool) - Description here
+- [Autopsy](https://www.google.com/search?btnI=Autopsy) - Description here
+- [CmosPwd](https://www.google.com/search?btnI=CmosPwd) - Description here
+- [Digital Forensic Framework](https://www.google.com/search?btnI=Framework) - Description here
+- [NetworkMiner packet analyzer](https://www.google.com/search?btnI=analyzer) - Description here
+- [RadioGraPhy Forensic](https://www.google.com/search?btnI=Forensic) - Description here
+- [MboxGrep](https://www.google.com/search?btnI=MboxGrep) - Description here
+- [Pdfbook](https://www.google.com/search?btnI=Pdfbook) - Description here
+- [Pdgmail](https://www.google.com/search?btnI=Pdgmail) - Description here
+- [Pdymail](https://www.google.com/search?btnI=Pdymail) - Description here
+- [PhotoRec](https://www.google.com/search?btnI=PhotoRec) - Description here
+- [aft](https://www.google.com/search?btnI=aft) - Description here
+- [RegRipper](https://www.google.com/search?btnI=RegRipper) - Description here
+- [Scalpel](https://www.google.com/search?btnI=Scalpel) - Description here
+- [Sleuth Kit](https://www.google.com/search?btnI=Kit) - Description here
+- [StreamArmor](https://www.google.com/search?btnI=StreamArmor) - Description here
+- [Xplico Network Forensic Analysis](https://www.google.com/search?btnI=Analysis) - Description here
+- [TestDisk](https://www.google.com/search?btnI=TestDisk) - Description here
+- [ForensicZone](https://www.google.com/search?btnI=ForensicZone) - Description here
+- [Vinetto](https://www.google.com/search?btnI=Vinetto) - Description here
+- [Dtsearch](https://www.google.com/search?btnI=Dtsearch) - Description here
+- [Winhex](https://www.google.com/search?btnI=Winhex) - Description here
+- [Helix](https://www.google.com/search?btnI=Helix) - Description here
+- [Mobius Forensic](https://www.google.com/search?btnI=Forensic) - Description here
+- [Mobius Forensic Toolkit](https://www.google.com/search?btnI=Toolkit) - Description here
+- [LINReS](https://www.google.com/search?btnI=LINReS) - Description here
+- [revealertoolkit](https://www.google.com/search?btnI=revealertoolkit) - Description here
+- [Stegdetect](https://www.google.com/search?btnI=Stegdetect) - Description here
+- [RegLookup](https://www.google.com/search?btnI=RegLookup) - Description here
+- [Readpst](https://www.google.com/search?btnI=Readpst) - Description here
+- [PTK](https://www.google.com/search?btnI=PTK) - Description here
+- [pdfid](https://www.google.com/search?btnI=pdfid) - Description here
+- [volatility](https://www.google.com/search?btnI=volatility) - Description here
+- [dc3dd](https://www.google.com/search?btnI=dc3dd) - Description here
+- [NIELD](https://www.google.com/search?btnI=NIELD) - Description here
+- [tcpxtract](https://www.google.com/search?btnI=tcpxtract) - Description here
+- [Xplico](https://www.google.com/search?btnI=Xplico) - Description here
+- [darkstat](https://www.google.com/search?btnI=darkstat) - Description here
+- [volafox](https://www.google.com/search?btnI=volafox) - Description here
+- [Afcat](https://www.google.com/search?btnI=Afcat) - Description here
+- [Afcompare](https://www.google.com/search?btnI=Afcompare) - Description here
+- [Afconvert](https://www.google.com/search?btnI=Afconvert) - Description here
+- [Affix](https://www.google.com/search?btnI=Affix) - Description here
+- [Afinfo](https://www.google.com/search?btnI=Afinfo) - Description here
+- [Afstats](https://www.google.com/search?btnI=Afstats) - Description here
+- [Afxml](https://www.google.com/search?btnI=Afxml) - Description here
+- [Aimage](https://www.google.com/search?btnI=Aimage) - Description here
+- [AIR Imager](https://www.google.com/search?btnI=Imager) - Description here
+- [Chkrootkit](https://www.google.com/search?btnI=Chkrootkit) - Description here
+- [Clamscan](https://www.google.com/search?btnI=Clamscan) - Description here
+- [DCFLDD](https://www.google.com/search?btnI=DCFLDD) - Description here
+- [Dd_rescue](https://www.google.com/search?btnI=Dd_rescue) - Description here
+- [Galleta](https://www.google.com/search?btnI=Galleta) - Description here
+- [ddrescue](https://www.google.com/search?btnI=ddrescue) - Description here
+- [Afick](https://www.google.com/search?btnI=Afick) - Description here
+- [DownloadHashVerifier](https://www.google.com/search?btnI=DownloadHashVerifier) - Description here
+- [HashCompare](https://www.google.com/search?btnI=HashCompare) - Description here
+- [HashGenerator](https://www.google.com/search?btnI=HashGenerator) - Description here
+- [md5deep](https://www.google.com/search?btnI=md5deep) - Description here
+- [hashdeep](https://www.google.com/search?btnI=hashdeep) - Description here
+- [Quick Hash](https://www.google.com/search?btnI=Hash) - Description here
+- [hash-identifier](https://www.google.com/search?btnI=identifier) - Description here
+- [Evans Debugger](https://www.google.com/search?btnI=Debugger) - Description here
+- [GDB GNU Debugger](https://www.google.com/search?btnI=Debugger) - Description here
+- [OllyDbg](https://www.google.com/search?btnI=OllyDbg) - Description here
+- [W32Dasm](https://www.google.com/search?btnI=W32Dasm) - Description here
+- [Immunity Debugger](https://www.google.com/search?btnI=Debugger) - Description here
+- [SoftICE](https://www.google.com/search?btnI=SoftICE) - Description here
+- [IDA](https://www.google.com/search?btnI=IDA) - Description here
+- [windbg](https://www.google.com/search?btnI=windbg) - Description here
+- [Paimei](https://www.google.com/search?btnI=Paimei) - Description here
+- [pydasm](https://www.google.com/search?btnI=pydasm) - Description here
+- [mona](https://www.google.com/search?btnI=mona) - Description here
+- [Hiew](https://www.google.com/search?btnI=Hiew) - Description here
+- [Syser](https://www.google.com/search?btnI=Syser) - Description here
+- [METASM](https://www.google.com/search?btnI=METASM) - Description here
+- [Revelo](https://www.google.com/search?btnI=Revelo) - Description here
+- [wxhexeditor](https://www.google.com/search?btnI=wxhexeditor) - Description here
+- [Okteta](https://www.google.com/search?btnI=Okteta) - Description here
+- [Rubus](https://www.google.com/search?btnI=Rubus) - Description here
+- [IDA Pro](https://www.google.com/search?btnI=Pro) - Description here
+- [SwfScan](https://www.google.com/search?btnI=SwfScan) - Description here
+- [Flasm](https://www.google.com/search?btnI=Flasm) - Description here
+- [BDASM Disassemblers](https://www.google.com/search?btnI=Disassemblers) - Description here
+- [DeDe Dessembler](https://www.google.com/search?btnI=Dessembler) - Description here
+- [CFF Explorer](https://www.google.com/search?btnI=Explorer) - Description here
+- [Strace](https://www.google.com/search?btnI=Strace) - Description here
+- [Simple Assembly Explorer](https://www.google.com/search?btnI=Explorer) - Description here
+- [Resource Hacker](https://www.google.com/search?btnI=Hacker) - Description here
+- [Turbo Assembler](https://www.google.com/search?btnI=Assembler) - Description here
+- [MASM32 Assembler](https://www.google.com/search?btnI=Assembler) - Description here
+- [NodeZero](https://www.google.com/search?btnI=NodeZero) - Description here
+- [BackBox Linux](https://www.google.com/search?btnI=Linux) - Description here
+- [Matriux](https://www.google.com/search?btnI=Matriux) - Description here
+- [BackTrack](https://www.google.com/search?btnI=BackTrack) - Description here
+- [Samurai](https://www.google.com/search?btnI=Samurai) - Description here
+- [DEFT Linux](https://www.google.com/search?btnI=Linux) - Description here
+- [Matriux](https://www.google.com/search?btnI=Matriux) - Description here
+- [FLY](https://www.google.com/search?btnI=FLY) - Description here
+- [Grml](https://www.google.com/search?btnI=Grml) - Description here
+- [Katana](https://www.google.com/search?btnI=Katana) - Description here
+- [Kon-Boot](https://www.google.com/search?btnI=Boot) - Description here
+- [Ophcrack](https://www.google.com/search?btnI=Ophcrack) - Description here
+- [Ultimate Boot CD for Windows](https://www.google.com/search?btnI=Windows) - Description here
+- [VAST](https://www.google.com/search?btnI=VAST) - Description here
+- [WeakNet Linux](https://www.google.com/search?btnI=Linux) - Description here
+- [Blackbuntu](https://www.google.com/search?btnI=Blackbuntu) - Description here
+- [Russian Technology Kit](https://www.google.com/search?btnI=Kit) - Description here
+- [Basic Fuzzing Framework BFF](https://www.google.com/search?btnI=BFF) - Description here
+- [Cryptmount](https://www.google.com/search?btnI=Cryptmount) - Description here
+- [PenTBox](https://www.google.com/search?btnI=PenTBox) - Description here
+- [SIFT Workstation](https://www.google.com/search?btnI=Workstation) - Description here
+- [TitanEngine](https://www.google.com/search?btnI=TitanEngine) - Description here
+- [Hackpack](https://www.google.com/search?btnI=Hackpack) - Description here
+- [The e-Security Toolkit](https://www.google.com/search?btnI=Toolkit) - Description here
+- [Bugtraq](https://www.google.com/search?btnI=Bugtraq) - Description here
+- [CAINE](https://www.google.com/search?btnI=CAINE) - Description here
+- [Raptor](https://www.google.com/search?btnI=Raptor) - Description here
+- [INSERT](https://www.google.com/search?btnI=INSERT) - Description here
+- [F.I.R.E](https://www.google.com/search?btnI=E) - Description here
+- [Masterkey!](https://www.google.com/search?btnI=Masterkey) - Description here
+- [Operator](https://www.google.com/search?btnI=Operator) - Description here
+- [Matriux](https://www.google.com/search?btnI=Matriux) - Description here
+- [Ubuntu Rescue Remix](https://www.google.com/search?btnI=Remix) - Description here
+- [fhclive](https://www.google.com/search?btnI=fhclive) - Description here
+- [Portable Linux Auditing CD](https://www.google.com/search?btnI=CD) - Description here
+- [SANS SIFT Workstation](https://www.google.com/search?btnI=Workstation) - Description here
+- [Rifiuti](https://www.google.com/search?btnI=Rifiuti) - Description here
+- [Malheur](https://www.google.com/search?btnI=Malheur) - Description here
+- [Minibis](https://www.google.com/search?btnI=Minibis) - Description here
+- [ReFrameworker](https://www.google.com/search?btnI=ReFrameworker) - Description here
+- [Yara](https://www.google.com/search?btnI=Yara) - Description here
+- [ZeroWine](https://www.google.com/search?btnI=ZeroWine) - Description here
+- [Malware Classifier](https://www.google.com/search?btnI=Classifier) - Description here
+- [androguard](https://www.google.com/search?btnI=androguard) - Description here
+- [pyew](https://www.google.com/search?btnI=pyew) - Description here
+- [jsunpack-n](https://www.google.com/search?btnI=n) - Description here
+- [Rootkit Profiler LX](https://www.google.com/search?btnI=LX) - Description here
+- [Exefilter](https://www.google.com/search?btnI=Exefilter) - Description here
+- [Cuckoo Sandbox](https://www.google.com/search?btnI=Sandbox) - Description here
+- [Capture BAT](https://www.google.com/search?btnI=BAT) - Description here
+- [Jsunpack](https://www.google.com/search?btnI=Jsunpack) - Description here
+- [Origami](https://www.google.com/search?btnI=Origami) - Description here
+- [PDFResurrect](https://www.google.com/search?btnI=PDFResurrect) - Description here
+- [PDFStreamDumper](https://www.google.com/search?btnI=PDFStreamDumper) - Description here
+- [Opaf](https://www.google.com/search?btnI=Opaf) - Description here
+- [Origapy](https://www.google.com/search?btnI=Origapy) - Description here
+- [pyPDF](https://www.google.com/search?btnI=pyPDF) - Description here
+- [PDFMiner](https://www.google.com/search?btnI=PDFMiner) - Description here
+- [PDF Examiner](https://www.google.com/search?btnI=Examiner) - Description here
+- [Sydbox](https://www.google.com/search?btnI=Sydbox) - Description here
+- [iScanner](https://www.google.com/search?btnI=iScanner) - Description here
+- [libemu](https://www.google.com/search?btnI=libemu) - Description here
+- [Shellcode2Exe](https://www.google.com/search?btnI=Shellcode2Exe) - Description here
+- [scdbg](https://www.google.com/search?btnI=scdbg) - Description here
+- [sclog](https://www.google.com/search?btnI=sclog) - Description here
+- [Hook Analyser Malware](https://www.google.com/search?btnI=Malware) - Description here
+- [WeBaCoo](https://www.google.com/search?btnI=WeBaCoo) - Description here
+- [SNMP-BCC](https://www.google.com/search?btnI=BCC) - Description here
+- [trixdoor](https://www.google.com/search?btnI=trixdoor) - Description here
+- [SpyBHORemover](https://www.google.com/search?btnI=SpyBHORemover) - Description here
+- [Rootkit Hunter](https://www.google.com/search?btnI=Hunter) - Description here
+- [peepdf](https://www.google.com/search?btnI=peepdf) - Description here
+- [Jynx-Kit](https://www.google.com/search?btnI=Kit) - Description here
+- [Poison Ivy](https://www.google.com/search?btnI=Ivy) - Description here
+- [Nuclear RAT](https://www.google.com/search?btnI=RAT) - Description here
+- [Netbus](https://www.google.com/search?btnI=Netbus) - Description here
+- [Darkcomet](https://www.google.com/search?btnI=Darkcomet) - Description here
+- [BlackShades RAT](https://www.google.com/search?btnI=RAT) - Description here
+- [CyberGate](https://www.google.com/search?btnI=CyberGate) - Description here
+- [DDoSeR](https://www.google.com/search?btnI=DDoSeR) - Description here
+- [Albertino's Advanced RAT](https://www.google.com/search?btnI=RAT) - Description here
+- [Clam AntiVirus Toolkit](https://www.google.com/search?btnI=Toolkit) - Description here
+- [Qmail-Scanner](https://www.google.com/search?btnI=Scanner) - Description here
+- [Saddam-crypter](https://www.google.com/search?btnI=crypter) - Description here
+- [MaXcrpt](https://www.google.com/search?btnI=MaXcrpt) - Description here
+- [GMER](https://www.google.com/search?btnI=GMER) - Description here
+- [SpyDllRemover](https://www.google.com/search?btnI=SpyDllRemover) - Description here
+- [StreamArmor](https://www.google.com/search?btnI=StreamArmor) - Description here
+- [iXKeyLog](https://www.google.com/search?btnI=iXKeyLog) - Description here
+- [Istealer](https://www.google.com/search?btnI=Istealer) - Description here
+- [Elite keylogger](https://www.google.com/search?btnI=keylogger) - Description here
+- [Actual Spy](https://www.google.com/search?btnI=Spy) - Description here
+- [Advance keylogger](https://www.google.com/search?btnI=keylogger) - Description here
+- [Ardamax](https://www.google.com/search?btnI=Ardamax) - Description here
+- [X11 keylogger](https://www.google.com/search?btnI=keylogger) - Description here
+- [Appnimi_PDF_Password_Recovery](https://www.google.com/search?btnI=Appnimi_PDF_Password_Recovery) - Description here
+- [AsteriskPasswordSpy](https://www.google.com/search?btnI=AsteriskPasswordSpy) - Description here
+- [BrowserPasswordDecryptor](https://www.google.com/search?btnI=BrowserPasswordDecryptor) - Description here
+- [ChromePasswordDecryptor](https://www.google.com/search?btnI=ChromePasswordDecryptor) - Description here
+- [DigsbyPasswordDecryptor](https://www.google.com/search?btnI=DigsbyPasswordDecryptor) - Description here
+- [FacebookPasswordDecryptor](https://www.google.com/search?btnI=FacebookPasswordDecryptor) - Description here
+- [FireMaster](https://www.google.com/search?btnI=FireMaster) - Description here
+- [FirePassword](https://www.google.com/search?btnI=FirePassword) - Description here
+- [FirePasswordViewer](https://www.google.com/search?btnI=FirePasswordViewer) - Description here
+- [FTPPasswordSniffer](https://www.google.com/search?btnI=FTPPasswordSniffer) - Description here
+- [GooglePasswordDecryptor](https://www.google.com/search?btnI=GooglePasswordDecryptor) - Description here
+- [IEPasswordDecryptor](https://www.google.com/search?btnI=IEPasswordDecryptor) - Description here
+- [IMPasswordDecryptor](https://www.google.com/search?btnI=IMPasswordDecryptor) - Description here
+- [iTunesPasswordDecryptor](https://www.google.com/search?btnI=iTunesPasswordDecryptor) - Description here
+- [MailPasswordDecryptor](https://www.google.com/search?btnI=MailPasswordDecryptor) - Description here
+- [MirandaPasswordDecryptor](https://www.google.com/search?btnI=MirandaPasswordDecryptor) - Description here
+- [MSNLivePasswordDecryptor](https://www.google.com/search?btnI=MSNLivePasswordDecryptor) - Description here
+- [MyspacePasswordDecryptor](https://www.google.com/search?btnI=MyspacePasswordDecryptor) - Description here
+- [NetworkPasswordDecryptor](https://www.google.com/search?btnI=NetworkPasswordDecryptor) - Description here
+- [OperaPasswordDecryptor](https://www.google.com/search?btnI=OperaPasswordDecryptor) - Description here
+- [OutlookPasswordDecryptor](https://www.google.com/search?btnI=OutlookPasswordDecryptor) - Description here
+- [PaltalkPasswordDecryptor](https://www.google.com/search?btnI=PaltalkPasswordDecryptor) - Description here
+- [PidginPasswordDecryptor](https://www.google.com/search?btnI=PidginPasswordDecryptor) - Description here
+- [SafariPasswordDecryptor](https://www.google.com/search?btnI=SafariPasswordDecryptor) - Description here
+- [ThunderbirdPassDecryptor](https://www.google.com/search?btnI=ThunderbirdPassDecryptor) - Description here
+- [TrillianPasswordDecryptor](https://www.google.com/search?btnI=TrillianPasswordDecryptor) - Description here
+- [TwitterPasswordDecryptor](https://www.google.com/search?btnI=TwitterPasswordDecryptor) - Description here
+- [YahooPasswordDecryptor](https://www.google.com/search?btnI=YahooPasswordDecryptor) - Description here
+- [MySQL Brute Force Tool](https://www.google.com/search?btnI=Tool) - Description here
+- [POP3 Password Brute Forcer](https://www.google.com/search?btnI=Forcer) - Description here
+- [Hydra Network Logon Cracker 7.1](https://www.google.com/search?btnI=1) - Description here
+- [Sshtrix-0.0.2](https://www.google.com/search?btnI=2) - Description here
+- [Brutus](https://www.google.com/search?btnI=Brutus) - Description here
+- [Patator](https://www.google.com/search?btnI=Patator) - Description here
+- [WWWhack](https://www.google.com/search?btnI=WWWhack) - Description here
+- [sqldict](https://www.google.com/search?btnI=sqldict) - Description here
+- [Dnsspider](https://www.google.com/search?btnI=Dnsspider) - Description here
+- [PgSql Brute Force](https://www.google.com/search?btnI=Force) - Description here
+- [HTTP Brute Force](https://www.google.com/search?btnI=Force) - Description here
+- [WebSlayer](https://www.google.com/search?btnI=WebSlayer) - Description here
+- [J-Baah](https://www.google.com/search?btnI=Baah) - Description here
+- [Scully](https://www.google.com/search?btnI=Scully) - Description here
+- [findmyhash.py](https://www.google.com/search?btnI=py) - Description here
+- [IGHASHGPU](https://www.google.com/search?btnI=IGHASHGPU) - Description here
+- [RAR CRACKER](https://www.google.com/search?btnI=CRACKER) - Description here
+- [Hashcat](https://www.google.com/search?btnI=Hashcat) - Description here
+- [Hexedit](https://www.google.com/search?btnI=Hexedit) - Description here
+- [Metasploitable](https://www.google.com/search?btnI=Metasploitable) - Description here
+- [Metasploitable 2](https://www.google.com/search?btnI=2) - Description here
+- [Damn Vulnerable Linux](https://www.google.com/search?btnI=Linux) - Description here
+- [De-ICE](https://www.google.com/search?btnI=ICE) - Description here
+- [Holynix](https://www.google.com/search?btnI=Holynix) - Description here
+- [Kioptrix](https://www.google.com/search?btnI=Kioptrix) - Description here
+- [Hackademic](https://www.google.com/search?btnI=Hackademic) - Description here
+- [NETinVM](https://www.google.com/search?btnI=NETinVM) - Description here
+- [pWnOS](https://www.google.com/search?btnI=pWnOS) - Description here
+- [RuCTFE 2010](https://www.google.com/search?btnI=2010) - Description here
+- [HoneyBox](https://www.google.com/search?btnI=HoneyBox) - Description here
+- [Binary-Auditing](https://www.google.com/search?btnI=Auditing) - Description here
+- [DFRWS 2011 Forensics Challenge](https://www.google.com/search?btnI=Challenge) - Description here
+- [ForensicKB](https://www.google.com/search?btnI=ForensicKB) - Description here
+- [Honeynet Project Challenges](https://www.google.com/search?btnI=Challenges) - Description here
+- [SecuraLabs Challenge](https://www.google.com/search?btnI=Challenge) - Description here
+- [ExploitMe](https://www.google.com/search?btnI=ExploitMe) - Description here
+- [BadStore](https://www.google.com/search?btnI=BadStore) - Description here
+- [Damn Vulnerable Web App](https://www.google.com/search?btnI=App) - Description here
+- [HackUS HackFest Web CTF](https://www.google.com/search?btnI=CTF) - Description here
+- [OWASP Insecure Web App Project](https://www.google.com/search?btnI=Project) - Description here
+- [Hackxor](https://www.google.com/search?btnI=Hackxor) - Description here
+- [OWASP Vicnum](https://www.google.com/search?btnI=Vicnum) - Description here
+- [LAMPSecurity](https://www.google.com/search?btnI=LAMPSecurity) - Description here
+- [WebGoat](https://www.google.com/search?btnI=WebGoat) - Description here
+- [The BodgeIt Store](https://www.google.com/search?btnI=Store) - Description here
+- [Hacme Travel](https://www.google.com/search?btnI=Travel) - Description here
+- [Moth](https://www.google.com/search?btnI=Moth) - Description here
+- [Mutillidae](https://www.google.com/search?btnI=Mutillidae) - Description here
+- [Peruggia](https://www.google.com/search?btnI=Peruggia) - Description here
+- [PuzzleMall](https://www.google.com/search?btnI=PuzzleMall) - Description here
+- [SecuriBench](https://www.google.com/search?btnI=SecuriBench) - Description here
+- [The ButterFly Security Project](https://www.google.com/search?btnI=Project) - Description here
+- [VulnApp](https://www.google.com/search?btnI=VulnApp) - Description here
+- [OWASP BWA](https://www.google.com/search?btnI=BWA) - Description here
+- [Google Gruyere](https://www.google.com/search?btnI=Gruyere) - Description here
+- [OWASP .NET Goat](https://www.google.com/search?btnI=Goat) - Description here
+- [Hacme Books](https://www.google.com/search?btnI=Books) - Description here
+- [UltimateLAMP](https://www.google.com/search?btnI=UltimateLAMP) - Description here
+- [Virtual Hacking Lab](https://www.google.com/search?btnI=Lab) - Description here
+- [Hacme Shipping](https://www.google.com/search?btnI=Shipping) - Description here
+- [Hacme Bank](https://www.google.com/search?btnI=Bank) - Description here
+- [WackoPicko](https://www.google.com/search?btnI=WackoPicko) - Description here
+- [Hacme Casino](https://www.google.com/search?btnI=Casino) - Description here
+- [WebMaven/Buggy Bank](https://www.google.com/search?btnI=Bank) - Description here
+- [Web Security Dojo](https://www.google.com/search?btnI=Dojo) - Description here
+- [HackThisSite](https://www.google.com/search?btnI=HackThisSite) - Description here
+- [Enigma Group - Training Missions](https://www.google.com/search?btnI=Missions) - Description here
+- [HellBoundHackers](https://www.google.com/search?btnI=HellBoundHackers) - Description here
+- [SmashTheStack](https://www.google.com/search?btnI=SmashTheStack) - Description here
+- [Wechall](https://www.google.com/search?btnI=Wechall) - Description here
+- [Hacking-Lab](https://www.google.com/search?btnI=Lab) - Description here
+- [OverTheWire](https://www.google.com/search?btnI=OverTheWire) - Description here
+- [pwn0](https://www.google.com/search?btnI=pwn0) - Description here
+- [Biscuit](https://www.google.com/search?btnI=Biscuit) - Description here
+- [Gruyere / Jarlsberg](https://www.google.com/search?btnI=Jarlsberg) - Description here
+- [HackThis](https://www.google.com/search?btnI=HackThis) - Description here
+- [hACME](https://www.google.com/search?btnI=hACME) - Description here
+- [Hackxor](https://www.google.com/search?btnI=Hackxor) - Description here
+- [OWASP Vicnum](https://www.google.com/search?btnI=Vicnum) - Description here
+- [XSSMe](https://www.google.com/search?btnI=XSSMe) - Description here
+- [Can You XSS This?](https://www.google.com/search?btnI=This) - Description here
+- [Test x5s](https://www.google.com/search?btnI=x5s) - Description here
+- [XSS Progphp](https://www.google.com/search?btnI=Progphp) - Description here
+- [XSS Quiz](https://www.google.com/search?btnI=Quiz) - Description here
+- [weakivgen](https://www.google.com/search?btnI=weakivgen) - Description here
+- [Airmon-ng](https://www.google.com/search?btnI=ng) - Description here
+- [Hwk](https://www.google.com/search?btnI=Hwk) - Description here
+- [AirSnort](https://www.google.com/search?btnI=AirSnort) - Description here
+- [BlueBugger](https://www.google.com/search?btnI=BlueBugger) - Description here
+- [Bluediving](https://www.google.com/search?btnI=Bluediving) - Description here
+- [BlueMaho](https://www.google.com/search?btnI=BlueMaho) - Description here
+- [BluePrint](https://www.google.com/search?btnI=BluePrint) - Description here
+- [BlueSmash](https://www.google.com/search?btnI=BlueSmash) - Description here
+- [Btscanner](https://www.google.com/search?btnI=Btscanner) - Description here
+- [carwhisperer](https://www.google.com/search?btnI=carwhisperer) - Description here
+- [Haraldscan](https://www.google.com/search?btnI=Haraldscan) - Description here
+- [HCIDump](https://www.google.com/search?btnI=HCIDump) - Description here
+- [Minicom](https://www.google.com/search?btnI=Minicom) - Description here
+- [ObexFTP](https://www.google.com/search?btnI=ObexFTP) - Description here
+- [Redfang](https://www.google.com/search?btnI=Redfang) - Description here
+- [Ussp-Push](https://www.google.com/search?btnI=Push) - Description here
+- [Commview](https://www.google.com/search?btnI=Commview) - Description here
+- [NetSleuth](https://www.google.com/search?btnI=NetSleuth) - Description here
+- [SILICA](https://www.google.com/search?btnI=SILICA) - Description here
+- [WiFinger](https://www.google.com/search?btnI=WiFinger) - Description here
+- [Ethereal](https://www.google.com/search?btnI=Ethereal) - Description here
+- [wwtool v0.1](https://www.google.com/search?btnI=1) - Description here
+- [Airsnarf](https://www.google.com/search?btnI=Airsnarf) - Description here
+- [Aircrack-NG](https://www.google.com/search?btnI=NG) - Description here
+- [asLEAP](https://www.google.com/search?btnI=asLEAP) - Description here
+- [coWPAtty](https://www.google.com/search?btnI=coWPAtty) - Description here
+- [genpmk](https://www.google.com/search?btnI=genpmk) - Description here
+- [Gerix WiFi Cracker-NG](https://www.google.com/search?btnI=NG) - Description here
+- [pyrit](https://www.google.com/search?btnI=pyrit) - Description here
+- [spoonWEP](https://www.google.com/search?btnI=spoonWEP) - Description here
+- [WEPBuster](https://www.google.com/search?btnI=WEPBuster) - Description here
+- [WEPCRACK](https://www.google.com/search?btnI=WEPCRACK) - Description here
+- [wifite](https://www.google.com/search?btnI=wifite) - Description here
+- [grimwepa](https://www.google.com/search?btnI=grimwepa) - Description here
+- [reaver](https://www.google.com/search?btnI=reaver) - Description here
+- [WapPy](https://www.google.com/search?btnI=WapPy) - Description here
+- [WiPhire](https://www.google.com/search?btnI=WiPhire) - Description here
+- [weplab](https://www.google.com/search?btnI=weplab) - Description here
+- [wifite](https://www.google.com/search?btnI=wifite) - Description here
+- [KisMAC](https://www.google.com/search?btnI=KisMAC) - Description here
+- [Online WPA Cracker](https://www.google.com/search?btnI=Cracker) - Description here
+- [inSSIDer](https://www.google.com/search?btnI=inSSIDer) - Description here
+- [Kismet](https://www.google.com/search?btnI=Kismet) - Description here
+- [Netstumbler](https://www.google.com/search?btnI=Netstumbler) - Description here
+- [WPSpy](https://www.google.com/search?btnI=WPSpy) - Description here
+- [wifitap](https://www.google.com/search?btnI=wifitap) - Description here
