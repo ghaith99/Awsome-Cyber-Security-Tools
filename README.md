@@ -1,10 +1,10 @@
 # Cyber Security Tools 
 
-- [DnsEnum](https://www.google.com/search?btnI=1&q=DnsEnum) - Description here
-- [Dnsmap](https://www.google.com/search?btnI=1&q=Dnsmap) - Description here
-- [Dnsrecon](https://www.google.com/search?btnI=1&q=Dnsrecon) - Description here
-- [DnsTracer](https://www.google.com/search?btnI=1&q=DnsTracer) - Description here
-- [Dns-Walk](https://www.google.com/search?btnI=1&q=Walk) - Description here
+- [DnsEnum](https://www.google.com/search?btnI=1&q=DnsEnum) - Multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.
+- [Dnsmap](https://www.google.com/search?btnI=1&q=Dnsmap) - Provides free dns lookup service for checking domain name server records against a randomly selected list of DNS servers in different corners of the world.
+- [Dnsrecon](https://www.google.com/search?btnI=1&q=Dnsrecon) - Python DNS Enumeration Script
+- [DnsTracer](https://www.google.com/search?btnI=1&q=DnsTracer) - dnstracer determines where a given Domain Name Server (DNS) gets its information from for a given hostname, and follows the chain of DNS servers back to the authoritative answer.
+- [Dns-Walk](https://tools.kali.org/information-gathering/dnswalk) -  is a DNS debugger. It performs zone transfers of specified domains, and checks the database in numerous ways for internal consistency, as well as accuracy.
 - [Fierce](https://www.google.com/search?btnI=1&q=Fierce) - Description here
 - [FindDomains](https://www.google.com/search?btnI=1&q=FindDomains) - Description here
 - [HostMap](https://www.google.com/search?btnI=1&q=HostMap) - Description here
